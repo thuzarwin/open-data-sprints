@@ -5,20 +5,25 @@ PIR Pilot
 Project Scope and Charter
 ==============================================
 
-|The Transparent Society| offers a fascinating alternate view
-on privacy issues.
+.. AUTHOR INSTRUCTIONS: Replace the [placeholder text] with the name of your project
 
-.. |The Transparent Society| book:: isbn=0738201448
+The purpose of this document is to describe the [insert project name here] of Open Data Initiative at the City of Austin. It identifies key partners, goals, and succes criteria. Throughout the project, progress reports and final reports will be added to the bottom of this document. 
 
 Background
 ----------------------------------------------
+
+.. AUTHOR INSTRUCTIONS: Explain why we're doing this particular project. 3-5 sentences.
 
 Cupcake ipsum dolor sit amet pastry ice cream wafer. Bonbon chocolate sweet dessert. Liquorice brownie liquorice topping jelly powder.
 
 Goals and deliverables
 ----------------------------------------------
 
+.. AUTHOR INSTRUCTIONS: Explain why we're doing this particular project. 3-5 sentences.
+
 - Amet tiramisu apple pie sweet pudding.
+	- test
+
 - Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin. 
 - Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels. 
 - Fruitcake carrot cake cake chocolate cake.
