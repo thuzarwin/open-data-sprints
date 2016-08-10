@@ -138,7 +138,7 @@ html_theme_path = ['_themes', ]
 # The name for this set of Sphinx documents.
 # "<project> v<release> documentation" by default.
 #
-# html_title = u'Open Data Manual v0.0.0'
+# html_title = u'Open Data Sprints v0.0.0'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #
@@ -264,7 +264,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'OpenDataSprints.tex', u'Open Data Sprints',
+    (master_doc, 'OpenDataSprints.tex', u'Open Data Sprint Documentation',
      u'City of Austin', 'manual'),
 ]
 
@@ -273,7 +273,7 @@ latex_documents = [
 #
 # latex_logo = None
 
-# For "plans" documents, if this is true, then toplevel headings are parts,
+# For "manual" documents, if this is true, then toplevel headings are parts,
 # not chapters.
 #
 # latex_use_parts = False

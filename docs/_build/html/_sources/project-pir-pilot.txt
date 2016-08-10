@@ -5,7 +5,10 @@ PIR Pilot
 Project Scope and Charter
 ==============================================
 
-Cupcake ipsum dolor sit amet topping liquorice fruitcake. Cake cupcake pie chocolate cake oat cake. 
+|The Transparent Society| offers a fascinating alternate view
+on privacy issues.
+
+.. |The Transparent Society| book:: isbn=0738201448
 
 Background
 ----------------------------------------------
