@@ -5,49 +5,62 @@ PIR Pilot
 Project Scope and Charter
 ==============================================
 
-.. AUTHOR INSTRUCTIONS: Replace the [placeholder text] with the name of your project
+.. AUTHOR INSTRUCTIONS: Replace the [placeholder text] with the name of your project.
 
-The purpose of this document is to describe the [insert project name here] of Open Data Initiative at the City of Austin. It identifies key partners, goals, and succes criteria. Throughout the project, progress reports and final reports will be added to the bottom of this document. 
+The purpose of this document is to describe the [insert project name here] project of Open Data Initiative at the City of Austin. It identifies the problem statement, key partners, documents, and succes criteria. Throughout the project, progress reports and final reports will be added to the bottom of this document. 
 
-Background
+
+Problem Statement
 ----------------------------------------------
 
-.. AUTHOR INSTRUCTIONS: Explain why we're doing this particular project. 3-5 sentences.
+.. AUTHOR INSTRUCTIONS: This section briefly describes the problem, explains why it matters, and introduces the solution. Fill in the placeholder text below.
 
-Cupcake ipsum dolor sit amet pastry ice cream wafer. Bonbon chocolate sweet dessert. Liquorice brownie liquorice topping jelly powder.
+**About the problem:**
 
-Goals and deliverables
-----------------------------------------------
+.. 2-3 sentences. What are the basic facts of the problem?
+[Tell us about the problem here.]
 
-.. AUTHOR INSTRUCTIONS: Add specific, action-oriented goals using bullet points. Add related deliverable underneath as needed. 
+**Why it matters:**
 
-- Amet tiramisu apple pie sweet pudding
-	- DELIVERABLE: Gummies wafer biscuit
-- Soufflé marzipan soufflé oat cake toffee muffin
-	- DELIVERABLE: Fruitcake carrot cake
-- Topping dessert candy oat cake donut 
-	- DELIVERABLE: Gummies wafer biscuit
+.. 1-2 sentences. Why should we address this? What value would be gained by solving this problem now?
+[Tell us about the potential benefits of addressing this problem here.]
 
+**The approach:**
+
+.. 2-3 sentences. Describe what this probject will do and how it will deliver value back to the City and the Open Data Initiative. Keep it brief here -- specific deliverables will be added in the next section.
+
+[Tell us about what this project will attempt and how it will deliver value here.]
 
 Success criteria
 ----------------------------------------------
 
-.. AUTHOR INSTRUCTIONS: When will you know you've successfully completed this project? Add brief, specific criteria here. Re-state deliverables if needed.
+.. AUTHOR INSTRUCTIONS: When will we know we've successfully completed this project? Add brief, specific criteria here. Mention specific deliverables if needed.
 
-- Amet tiramisu apple pie sweet pudding.
-- Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin. 
-- Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels. 
-- Fruitcake carrot cake cake chocolate cake.
+We'll know this project has been successfully completed when:
 
-Key stakeholders
+- [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin.]
+- [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.] 
+- [Fruitcake carrot cake cake chocolate cake.]
+
+Deliverables
+----------------------------------------------
+
+.. AUTHOR INSTRUCTIONS: What artifacts will be delivered by this project? Examples include specific documents, progress reports, feature sets, performance data, events, or presentations.
+
+- [One deliverable goes here]
+- [Another deliverable goes here]
+- Progress Report
+- End of Project Report
+
+Key users/customers
 ----------------------------------------------
 
 .. AUTHOR INSTRUCTIONS: What types of users/people will be most affected by this project? This helps readers understand your project's target audience. Use bullet points.
 
-- Amet tiramisu apple pie sweet pudding.
-- Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin. 
-- Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels. 
-- Fruitcake carrot cake cake chocolate cake.
+- [Amet tiramisu apple pie sweet pudding.]
+- [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin.]
+- [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.] 
+- [Fruitcake carrot cake cake chocolate cake.]
 
 Key dates
 ----------------------------------------------
@@ -77,10 +90,24 @@ Progress Reports
 Jan 1, 2999
 ----------------------------------------------
 
+[progress report template will go here]
+
 Jan 2, 2999
 ----------------------------------------------
+
+[progress report template will go here]
 
 End of Project Report
 ==============================================
 
 .. AUTHOR INSTRUCTIONS: Copy the final report template that's located [here] and paste it underneath this header.  Fill in that template to complete your report. High five, your documentation is complete! Many thanks!
+
+[end of project report template will go here]
+
+.. todo::
+
+   - link to report templates in instructions
+   - build smart goal worksheet and add link to instructions
+
+   
+
