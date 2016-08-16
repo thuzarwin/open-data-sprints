@@ -2,6 +2,13 @@
 PIR Pilot
 ==============================================
 
++-------------------------------------------------------------+
+|  Project Coordinator                                        |
++=============================================================+
+|  Anne Whitlock - anne.whitlock@austintexas.gov              |
++-------------------------------------------------------------+
+
+
 Project Scope and Charter
 ==============================================
 
@@ -18,11 +25,13 @@ Problem Statement
 **About the problem:**
 
 .. 2-3 sentences. What are the basic facts of the problem?
+
 [Tell us about the problem here.]
 
 **Why it matters:**
 
 .. 1-2 sentences. Why should we address this? What value would be gained by solving this problem now?
+
 [Tell us about the potential benefits of addressing this problem here.]
 
 **The approach:**
@@ -103,11 +112,3 @@ End of Project Report
 .. AUTHOR INSTRUCTIONS: Copy the final report template that's located [here] and paste it underneath this header.  Fill in that template to complete your report. High five, your documentation is complete! Many thanks!
 
 [end of project report template will go here]
-
-.. todo::
-
-   - link to report templates in instructions
-   - build smart goal worksheet and add link to instructions
-
-   
-
