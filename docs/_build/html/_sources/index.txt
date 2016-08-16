@@ -2,63 +2,61 @@
 Open Data Sprints
 ==============================================
 
-This site provides a central location for open data planning documents at the City of Austin. Each department is responsible for maintaining an Open Data Plan which describes the following: 
+About this site
+----------------------------------------------
 
-- x
-- y
-- z
+At Austin's Open Data Initiative, we work on projects for 1-3 months at a time. These project periods are called sprints. 
 
-The purpose of an Open Data Plan is to: 
-
-- a
-- b
-- c 
-
-For more information about Austin's Open Data Initiative, please visit our `Open Data Manual <http://www.opendata.rocks>`_.
-
-How this documentation is organized:
-======================================
-
-coming soon
+This site contains the documentation that describes our sprints, the projects, and the work delivered.  
 
 Some cool things you can do:
 ======================================
 
-- Search all plans by using the search bar
-- Browse topics in the Table of Contents menu
-- Generate a PDF to read the plans the old-fashioned way
+- Search all sprint docs by using the search bar
+- Jump to a document section by clicking in the table of contents
+- Generate a PDF to read about the sprints the old-fashioned way
 - Read the plans page-by-page by scrolling down and clicking 'Next'
 
-View this project on GitHub: https://github.com/cityofaustin/open-data-plans
-
-
-.. toctree::
-   :hidden:
-   :maxdepth: 3
-   :caption: Sprint 2.0
-
-   2.0 Sprint Summary
+View this project on GitHub: https://github.com/cityofaustin/open-data-sprints
 
 .. toctree::
    :hidden:
    :maxdepth: 3
-   :caption: Sprint 2.1
+   :caption: Sprint 2.3 - Aug 2016
 
-   2.1 Sprint Summary
+   2.3 Sprint Summary <2-3-sprint-summary>
+   PIR Pilot Project <project-pir-pilot>
+   Training Materials Project <project-training>
+   Portal Categories Project <project-portal-categories>
+   Open Data Plans and Inventory Project <project-plans-and-inventory>
+   Metadata Update Project <project-update-metadata>
 
 .. toctree::
    :hidden:
    :maxdepth: 3
-   :caption: Sprint 2.2
+   :caption: Sprint 2.2 - Mar 2016
 
-   2.2 Sprint Summary <2-2-sprint-summary>
-   PIR Pilot <project-pir-pilot>
-   .. Training Materials
-   .. Open Data Manual
-   .. Data Portal Categories
-   .. Open Data Inventory
-   .. Open Data Plans
-   .. Dataset Updates
+   docs coming soon <2-2-sprint-summary>
+
+.. toctree::
+   :hidden:
+   :maxdepth: 3
+   :caption: Sprint 2.1 - Dec 2015
+
+   docs coming soon <2-1-sprint-summary>
+
+.. toctree::
+   :hidden:
+   :maxdepth: 3
+   :caption: Sprint 2.0 - May 2015
+
+   docs coming soon <2-0-sprint-summary>
+
+
+
+
+
+
 
 
 
