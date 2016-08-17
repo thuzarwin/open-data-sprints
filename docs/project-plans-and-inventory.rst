@@ -39,19 +39,19 @@ Problem Statement
 
 .. 2-3 sentences. What are the basic facts of the problem?
 
-[Tell us about the problem here.]
+Increased transparency and public collaboration are key goals of Austin's Open Data Initiative. In pursuit of these goals, City Departments developed open data plans and inventories during previous sprints. Currently, the format and quality of both products vary widely across departments. 
 
 **Why it matters:**
 
 .. 1-2 sentences. Why should we address this? What value would be gained by solving this problem now?
 
-[Tell us about the potential benefits of addressing this problem here.]
+A baseline measure of quality is needed to understand the City's open data strengths and opportunities. Having this information would help create a strategy for improving the City's open data offerings, track our progress, and recognize when the strategy is working well. 
 
 **The approach:**
 
 .. 2-3 sentences. Describe what this probject will do and how it will deliver value back to the City and the Open Data Initiative. Keep it brief here -- specific deliverables will be added in the next section.
 
-[Tell us about what this project will attempt and how it will deliver value here.]
+This project involves three main activities. First, we will create an open data plan for each department based on the contents of the most recently approved City budget document. Second, we will use a selection of the City's existing performance indicators to create line items for a data inventory. Third, we will deploy the performance data inventory and create a public dashboard to track our progress.
 
 Success criteria
 ----------------------------------------------
@@ -60,64 +60,73 @@ Success criteria
 
 We'll know this project has been successfully completed when:
 
-- [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin.]
-- [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.] 
-- [Fruitcake carrot cake cake chocolate cake.]
+- We have populated an Open Data Plan for each City Department at plans.opendata.rocks
+- We can measure how many City performance indicators can be sourced from raw, structured data
+- We have completed our project deliverables, including progress and final reports
 
 Deliverables
 ----------------------------------------------
 
 .. AUTHOR INSTRUCTIONS: What artifacts will be delivered by this project? Examples include specific documents, progress reports, feature sets, performance data, events, or presentations.
 
-- [One deliverable goes here]
-- [Another deliverable goes here]
-- Progress Report
-- End of Project Report
+- Template that shows how to format and organize the content of an Open Data Plan
+- Well formed data file containing the mission statement, programs, activities, and performance indicators of each department in the most recently approved City budget
+- One page analysis that the describes subset of indicators to be used in the first performance data inventory
+- Performance data inventory worksheet to be used by departments
+- One Open Data Plan for each Department published publically at plans.opendata.rocks
+- At least three completed performance data inventories
+- Performance data inventory dashboard, published online for public access
+- A list of "next" and "later" action items to inform the next project iteration
+- 30 Day Progress Report, due Friday, Sep 23, 2016
+- Final Report, due Friday, Nov 4, 2016
+
 
 Key users/customers
 ----------------------------------------------
 
 .. AUTHOR INSTRUCTIONS: What types of users/people will be most affected by this project? This helps readers understand your project's target audience. Use bullet points.
 
-- [Amet tiramisu apple pie sweet pudding.]
-- [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin.]
-- [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.] 
-- [Fruitcake carrot cake cake chocolate cake.]
+- Open Data Liaisons
+- Non-technical users interested in learning about Austin's open data
+- Civic hackers interested in discovering open data
+- Open government and transparency advocates
+- City leaders working most closely with performance metrics
 
 Key dates
 ----------------------------------------------
 
 .. AUTHOR INSTRUCTIONS: What dates are important? Ideas for key dates include progress report due dates, target milestone dates, end of project report due date.
 
-- Jan 1, 2999: Amet tiramisu apple pie sweet pudding.
-- Jan 1, 2999: Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin. 
-- Jan 1, 2999: Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels. 
-- Jan 1, 2999: Fruitcake carrot cake cake chocolate cake.
+- Aug 16, 2016 - Project kickoff
+- Sep 23, 2016 - 30 Day Progress Report due 
+- Nov ?, 2016 - End of project sprint period
+- Nov 4, 2016 - Final Report Due
 
 Working documents
 ----------------------------------------------
 
 .. AUTHOR INSTRUCTIONS: Where does your documentation live? Link to meeting minutes, draft docs, etc from github, google docs, or wherever here. Test the links to make sure they're readable for anyone who clicks.
 
-- Amet tiramisu apple pie sweet pudding.
-- Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin. 
-- Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels. 
-- Fruitcake carrot cake cake chocolate cake.
+- Performance indicator profile
+- List of things to work next and later
+- Project issues and to-items on GitHub
+- Online catalog of Open Data Plans
+
+.. todo::
+
+	- link the list items above to the actual working documents
+
 
 Progress Reports
 ==============================================
 
 .. AUTHOR INSTRUCTIONS: Start with the date for each progress report. Copy the template that's located [here] and paste it underneath the date header. Fill in that template to complete your report. Repeat for as many progress reports as needed. 
 
-Jan 1, 2999
+Sep 23, 2016
 ----------------------------------------------
 
 [progress report template will go here]
 
-Jan 2, 2999
-----------------------------------------------
-
-[progress report template will go here]
 
 End of Project Report
 ==============================================
