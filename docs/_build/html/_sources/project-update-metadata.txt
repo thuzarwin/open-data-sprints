@@ -1,11 +1,11 @@
 ==============================================
-Update Portal Metadata
+Metadata Refresh Project
 ==============================================
 
 +-------------------------------------------------------------+
 |  Project Coordinator                                        |
 +=============================================================+
-|  Marbenn Cayetano - marbenn.cayetano@austintexas.gov        |
+|  Charles Purma - charles.purmaiii@austintexas.gov        |
 +-------------------------------------------------------------+
 
 
