@@ -22,22 +22,15 @@ View this project on GitHub: https://github.com/cityofaustin/open-data-sprints
 .. toctree::
    :hidden:
    :maxdepth: 3
-   :caption: Sprint 2.3 - Aug 2016
+   :caption: Sprint 2.2 - Aug 2016
 
-   2.3 Sprint Summary <2-3-sprint-summary>
+   2.2 Sprint Summary <2-2-sprint-summary>
    PIR Pilot Project <project-pir-pilot>
    Training Materials Project <project-training>
    Portal Categories Project <project-portal-categories>
    Open Data Plans and Inventory Project <project-plans-and-inventory>
    Metadata Refresh Project <project-update-metadata>
    GIS Portal Evaluation <project-gis-portal-eval>
-
-.. toctree::
-   :hidden:
-   :maxdepth: 3
-   :caption: Sprint 2.2 - Mar 2016
-
-   docs coming soon <2-2-sprint-summary>
 
 .. toctree::
    :hidden:

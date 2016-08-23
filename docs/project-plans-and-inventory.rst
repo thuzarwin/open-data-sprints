@@ -3,7 +3,7 @@ Open Data Plans and Inventory
 ==============================================
 
 +------------+----------------------------+
-| Sprint 2.3 | Aug 2016 - Nov 2016        |
+| Sprint 2.2 | Aug 2016 - Nov 2016        |
 +------------+----------------------------+
 
 .. AUTHOR INSTRUCTIONS: Replace the [placeholder text] with the name of your project.
@@ -78,7 +78,7 @@ Deliverables
 - Performance data inventory dashboard, published online for public access
 - A list of "next" and "later" action items to inform the next project iteration
 - 30 Day Progress Report, due Friday, Sep 23, 2016
-- Final Report, due Friday, Nov 4, 2016
+- End of Project, due Friday, Nov 4, 2016
 
 
 Key users/customers
@@ -100,7 +100,7 @@ Key dates
 - Aug 16, 2016 - Project kickoff
 - Sep 23, 2016 - 30 Day Progress Report due 
 - Nov ?, 2016 - End of project sprint period
-- Nov 4, 2016 - Final Report Due
+- Nov 4, 2016 - End of Project Due
 
 Working documents
 ----------------------------------------------
