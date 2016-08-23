@@ -109,7 +109,7 @@ Working documents
 
 - Performance indicator profile
 - List of things to work next and later
-- Project issues and to-items on GitHub
+- `Project issues and to-items on GitHub <https://github.com/cityofaustin/open-data-plans/issues>`_
 - Online catalog of Open Data Plans
 
 .. todo::
