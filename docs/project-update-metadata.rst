@@ -2,20 +2,24 @@
 Metadata Refresh Project
 ==============================================
 
-+-------------------------------------------------------------+
-|  Project Coordinator                                        |
-+=============================================================+
-|  Charles Purma - charles.purmaiii@austintexas.gov        |
-+-------------------------------------------------------------+
-
-
-Project Scope and Charter
-==============================================
++------------+----------------------------+
+| Sprint 2.2 | Aug 2016 - Nov 2016        |
++------------+----------------------------+
 
 .. AUTHOR INSTRUCTIONS: Replace the [placeholder text] with the name of your project.
 
-The purpose of this document is to describe the [insert project name here] project of Open Data Initiative at the City of Austin. It identifies the problem statement, key partners, documents, and succes criteria. Throughout the project, progress reports and final reports will be added to the bottom of this document. 
+The purpose of this document is to describe a project facilitated by the City of Austin's Open Data Initiative. It contains key contact information, the project scope and charter -- which identifies the problem statement, key partners, documents, and succes criteria -- and links to working documents. Throughout the project, progress and final reports will be appended to provide a comprehensive account of the work and value delivered. 
 
+
+Team Contacts
+==============================================
+
+**Project coordinator:**
+
+Charles Purma - charles.purmaiii@austintexas.gov 
+
+Project Scope and Charter
+==============================================
 
 Problem Statement
 ----------------------------------------------
