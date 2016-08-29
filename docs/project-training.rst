@@ -47,7 +47,7 @@ Equipping employees with the necessary tools will enable them to further contrib
 
 **The approach:**
 
-We will use the business model canvas as a guiding post throughout our project to define the promblem, identify employee key needs, strategize ways to fill in gaps through education tools, create objectives and develop materials which will meet learning needs. 
+We will use the business model canvas as a guiding post throughout our project to define the promblem, identify employee key training needs, strategize ways to fill in gaps through education tools, create objectives and develop materials which will meet learning needs. 
 
 Success criteria
 ----------------------------------------------
