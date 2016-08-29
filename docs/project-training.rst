@@ -39,7 +39,7 @@ Problem Statement
 
 .. 2-3 sentences. What are the basic facts of the problem?
 
-The purpose of this project sprint is to provide the open data training resources needed for the various levels of knowledge and skill existing amongst city staff. 
+The purpose of this project sprint is to provide the open data liasons training resources needed for the various levels of knowledge and skill existing amongst city staff. 
 
 **Why it matters:**
 
