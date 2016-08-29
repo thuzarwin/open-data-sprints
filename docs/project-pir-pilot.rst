@@ -1,5 +1,5 @@
 ==============================================
-PIR Pilot
+Public Information Request (PIR) Pilot
 ==============================================
 
 +------------+----------------------------+
@@ -27,10 +27,6 @@ Anne Whitlock - anne.whitlock@austintexas.gov
 
 Project Scope and Charter
 ==============================================
-
-.. AUTHOR INSTRUCTIONS: Replace the [placeholder text] with the name of your project.
-
-The purpose of this document is to describe the [insert project name here] project of Open Data Initiative at the City of Austin. It identifies the problem statement, key partners, documents, and succes criteria. Throughout the project, progress reports and final reports will be added to the bottom of this document. 
 
 
 Problem Statement
