@@ -39,11 +39,11 @@ Problem Statement
 
 .. 2-3 sentences. What are the basic facts of the problem?
 
-[Tell us about the problem here.]
+The purpose of this project sprint is to provide the open data training resources needed for the various levels of knowledge and skill existing amongst city staff. 
 
 **Why it matters:**
 
-.. 1-2 sentences. Why should we address this? What value would be gained by solving this problem now?
+Equipping employees with the necessary tools will enable them to further contribute to the city’s Open Data Initiative.
 
 [Tell us about the potential benefits of addressing this problem here.]
 
