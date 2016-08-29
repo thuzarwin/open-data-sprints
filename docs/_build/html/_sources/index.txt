@@ -29,7 +29,7 @@ View this project on GitHub: https://github.com/cityofaustin/open-data-sprints
    Training Materials Project <project-training>
    Portal Categories Project <project-portal-categories>
    Open Data Plans and Inventory Project <project-plans-and-inventory>
-   GIS Portal Evaluation <project-gis-portal-eval>
+   Open Data Product Evaluations <project-product-evals>
    Metadata Refresh Project <project-update-metadata>
    
 

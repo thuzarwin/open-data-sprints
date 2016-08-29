@@ -1,5 +1,5 @@
 ==============================================
-Open Data Training
+Open Data Product Evaluations
 ==============================================
 
 +------------+----------------------------+
@@ -16,15 +16,14 @@ Team Contacts
 
 **Project coordinator:**
 
-Happiness Kisoso - happiness.kisoso@austintexas.gov
+Marbenn Cayetano - marbenn.cayetano@austintexas.gov
 
 **Team members:**
 
 .. raw:: html
 
-	<iframe class="airtable-embed" src="https://airtable.com/embed/shrBXL6oQwLptO9sN?backgroundColor=gray" frameborder="0" onmousewheel="" width="100%" height="250" style="background: transparent; border: 1px solid #ccc;"></iframe>
+	<iframe class="airtable-embed" src="https://airtable.com/embed/shrdk6xIDHn8UnxyY?backgroundColor=gray" frameborder="0" onmousewheel="" width="100%" height="433" style="background: transparent; border: 1px solid #ccc;"></iframe>
 	<hr/>
-
 
 Project Scope and Charter
 ==============================================
@@ -39,15 +38,19 @@ Problem Statement
 
 .. 2-3 sentences. What are the basic facts of the problem?
 
-
+[Tell us about the problem here.]
 
 **Why it matters:**
 
-Equipping employees with the necessary tools will enable them to further contribute to the city’s Open Data Initiative.
+.. 1-2 sentences. Why should we address this? What value would be gained by solving this problem now?
+
+[Tell us about the potential benefits of addressing this problem here.]
 
 **The approach:**
 
-We will use the business model canvas as a guiding post throughout our project to define the promblem, identify employee key training needs, strategize ways to fill in gaps through education tools, create objectives and develop materials which will meet learning needs. 
+.. 2-3 sentences. Describe what this probject will do and how it will deliver value back to the City and the Open Data Initiative. Keep it brief here -- specific deliverables will be added in the next section.
+
+[Tell us about what this project will attempt and how it will deliver value here.]
 
 Success criteria
 ----------------------------------------------
@@ -56,8 +59,8 @@ Success criteria
 
 We'll know this project has been successfully completed when:
 
-- Training Materials are up-to-date
-- New users can easily access and upload data into the Data Portal, and find training resources for additional information 
+- [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin.]
+- [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.] 
 - [Fruitcake carrot cake cake chocolate cake.]
 
 
@@ -66,8 +69,8 @@ Deliverables
 
 .. AUTHOR INSTRUCTIONS: What artifacts will be delivered by this project? Examples include specific documents, progress reports, feature sets, performance data, events, or presentations. Use as many (or few) bullet points as you like.
 
-- An Updated Wiki site 
-- Update Training Materials 
+- [One deliverable goes here]
+- [Another deliverable goes here]
 - Progress Report
 - End of Project Report
 
@@ -77,7 +80,7 @@ Key users/customers
 
 .. AUTHOR INSTRUCTIONS: What types of users/people will be most affected by this project? This helps readers understand your project's target audience. Use as many (or few) bullet points as you like.
 
-- Open Data Liaisons
+- [Amet tiramisu apple pie sweet pudding.]
 - [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin.]
 - [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.] 
 - [Fruitcake carrot cake cake chocolate cake.]
