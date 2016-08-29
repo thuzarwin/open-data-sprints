@@ -45,8 +45,6 @@ The purpose of this project sprint is to provide the open data training resource
 
 Equipping employees with the necessary tools will enable them to further contribute to the city’s Open Data Initiative.
 
-[Tell us about the potential benefits of addressing this problem here.]
-
 **The approach:**
 
 .. 2-3 sentences. Describe what this probject will do and how it will deliver value back to the City and the Open Data Initiative. Keep it brief here -- specific deliverables will be added in the next section.
