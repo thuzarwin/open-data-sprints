@@ -29,8 +29,9 @@ View this project on GitHub: https://github.com/cityofaustin/open-data-sprints
    Training Materials Project <project-training>
    Portal Categories Project <project-portal-categories>
    Open Data Plans and Inventory Project <project-plans-and-inventory>
-   Metadata Refresh Project <project-update-metadata>
    GIS Portal Evaluation <project-gis-portal-eval>
+   Metadata Refresh Project <project-update-metadata>
+   
 
 .. toctree::
    :hidden:

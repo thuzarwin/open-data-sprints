@@ -8,7 +8,7 @@ Open Data Plans and Inventory
 
 .. AUTHOR INSTRUCTIONS: Replace the [placeholder text] with the name of your project.
 
-The purpose of this document is to describe a project facilitated by the City of Austin's Open Data Initiative. It contains key contact information, the project scope and charter -- which identifies the problem statement, key partners, documents, and succes criteria -- and links to working documents. Throughout the project, progress and final reports will be appended to provide a comprehensive account of the work and value delivered. 
+The purpose of this document is to describe a project facilitated by the City of Austin's Open Data Initiative. It contains key contact information, the project scope and charter -- which identifies the problem statement, key partners, documents, and success criteria -- and links to working documents. Throughout the project, progress and final reports will be appended to provide a comprehensive account of the work and value delivered. 
 
 
 Team Contacts
@@ -22,7 +22,7 @@ Hailey Pate - hailey.pate@austintexas.gov
 
 .. raw:: html
 
-	<iframe class="airtable-embed" src="https://airtable.com/embed/shrYM6YEE2fv9dh24?backgroundColor=gray" frameborder="0" onmousewheel="" width="100%" height="333" style="background: transparent; border: 1px solid #ccc;"></iframe>
+	<iframe class="airtable-embed" src="https://airtable.com/embed/shrYM6YEE2fv9dh24?backgroundColor=gray" frameborder="0" onmousewheel="" width="100%" height="433" style="background: transparent; border: 1px solid #ccc;"></iframe>
 	<hr/>
 
 
@@ -100,7 +100,7 @@ Key dates
 - Aug 16, 2016 - Project kickoff
 - Sep 23, 2016 - 30 Day Progress Report due 
 - Nov ?, 2016 - End of project sprint period
-- Nov 4, 2016 - End of Project Due
+- Nov 4, 2016 - End of Project Report Due
 
 Working documents
 ----------------------------------------------
@@ -112,10 +112,9 @@ Working documents
 - `Project issues and to-items on GitHub <https://github.com/cityofaustin/open-data-plans/issues>`_
 - Online catalog of Open Data Plans
 
-.. todo::
+.. raw:: html
 
-	- link the list items above to the actual working documents
-
+	<hr/>
 
 Progress Reports
 ==============================================
@@ -127,6 +126,9 @@ Sep 23, 2016
 
 [progress report template will go here]
 
+.. raw:: html
+
+	<hr/>
 
 End of Project Report
 ==============================================

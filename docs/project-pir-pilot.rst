@@ -8,7 +8,7 @@ Public Information Request (PIR) Pilot
 
 .. AUTHOR INSTRUCTIONS: Replace the [placeholder text] with the name of your project.
 
-The purpose of this document is to describe a project facilitated by the City of Austin's Open Data Initiative. It contains key contact information, the project scope and charter -- which identifies the problem statement, key partners, documents, and succes criteria -- and links to working documents. Throughout the project, progress and final reports will be appended to provide a comprehensive account of the work and value delivered. 
+The purpose of this document is to describe a project facilitated by the City of Austin's Open Data Initiative. It contains key contact information, the project scope and charter -- which identifies the problem statement, key partners, documents, and success criteria -- and links to working documents. Throughout the project, progress and final reports will be appended to provide a comprehensive account of the work and value delivered. 
 
 
 Team Contacts
@@ -18,7 +18,6 @@ Team Contacts
 
 Anne Whitlock - anne.whitlock@austintexas.gov 
 
-<<<<<<< HEAD
 **Team members:**
 
 .. raw:: html
@@ -55,7 +54,7 @@ Problem Statement
 Success criteria
 ----------------------------------------------
 
-.. AUTHOR INSTRUCTIONS: When will we know we've successfully completed this project? Add brief, specific criteria here. Mention specific deliverables if needed.
+.. AUTHOR INSTRUCTIONS: When will we know we've successfully completed this project? Add brief, specific criteria here. Mention specific deliverables if needed. Use as many (or few) bullet points as you like.
 
 We'll know this project has been successfully completed when:
 
@@ -63,60 +62,67 @@ We'll know this project has been successfully completed when:
 - [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.] 
 - [Fruitcake carrot cake cake chocolate cake.]
 
+
 Deliverables
 ----------------------------------------------
 
-.. AUTHOR INSTRUCTIONS: What artifacts will be delivered by this project? Examples include specific documents, progress reports, feature sets, performance data, events, or presentations.
+.. AUTHOR INSTRUCTIONS: What artifacts will be delivered by this project? Examples include specific documents, progress reports, feature sets, performance data, events, or presentations. Use as many (or few) bullet points as you like.
 
 - [One deliverable goes here]
 - [Another deliverable goes here]
 - Progress Report
 - End of Project Report
 
+
 Key users/customers
 ----------------------------------------------
 
-.. AUTHOR INSTRUCTIONS: What types of users/people will be most affected by this project? This helps readers understand your project's target audience. Use bullet points.
+.. AUTHOR INSTRUCTIONS: What types of users/people will be most affected by this project? This helps readers understand your project's target audience. Use as many (or few) bullet points as you like.
 
 - [Amet tiramisu apple pie sweet pudding.]
 - [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin.]
 - [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.] 
 - [Fruitcake carrot cake cake chocolate cake.]
 
+
 Key dates
 ----------------------------------------------
 
-.. AUTHOR INSTRUCTIONS: What dates are important? Ideas for key dates include progress report due dates, target milestone dates, end of project report due date.
+.. AUTHOR INSTRUCTIONS: What dates are important? Ideas for key dates include progress report due dates, target milestone dates, end of project report due date. Use as many (or few) bullet points as you like.
 
-- Jan 1, 2999: Amet tiramisu apple pie sweet pudding.
-- Jan 1, 2999: Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin. 
-- Jan 1, 2999: Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels. 
-- Jan 1, 2999: Fruitcake carrot cake cake chocolate cake.
+- [Jan 1, 2999]: [Amet tiramisu apple pie sweet pudding.]
+- [Jan 1, 2999]: [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin. 
+- [Jan 1, 2999]: [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.] 
+- [Jan 1, 2999]: [Fruitcake carrot cake cake chocolate cake.]
+
 
 Working documents
 ----------------------------------------------
 
-.. AUTHOR INSTRUCTIONS: Where does your documentation live? Link to meeting minutes, draft docs, etc from github, google docs, or wherever here. Test the links to make sure they're readable for anyone who clicks.
+.. AUTHOR INSTRUCTIONS: Where does your documentation live? Link to meeting minutes, draft docs, etc from github, google docs, or wherever here. Test the links to make sure they're readable for anyone who clicks. Use as many (or few) bullet points as you like.
 
-- Amet tiramisu apple pie sweet pudding.
-- Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin. 
-- Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels. 
-- Fruitcake carrot cake cake chocolate cake.
+- [Amet tiramisu apple pie sweet pudding.]
+- [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin.] 
+- [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.]
+- [Fruitcake carrot cake cake chocolate cake.]
+
+.. raw:: html
+
+	<hr/>
 
 Progress Reports
 ==============================================
 
 .. AUTHOR INSTRUCTIONS: Start with the date for each progress report. Copy the template that's located [here] and paste it underneath the date header. Fill in that template to complete your report. Repeat for as many progress reports as needed. 
 
-Jan 1, 2999
+Sep 23, 2016
 ----------------------------------------------
 
 [progress report template will go here]
 
-Jan 2, 2999
-----------------------------------------------
+.. raw:: html
 
-[progress report template will go here]
+	<hr/>
 
 End of Project Report
 ==============================================
@@ -124,3 +130,4 @@ End of Project Report
 .. AUTHOR INSTRUCTIONS: Copy the final report template that's located [here] and paste it underneath this header.  Fill in that template to complete your report. High five, your documentation is complete! Many thanks!
 
 [end of project report template will go here]
+
