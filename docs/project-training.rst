@@ -39,7 +39,7 @@ Problem Statement
 
 .. 2-3 sentences. What are the basic facts of the problem?
 
-The purpose of this project sprint is to provide the open data training resources needed for the various levels of knowledge and skill existing amongst city staff. 
+
 
 **Why it matters:**
 
@@ -47,7 +47,7 @@ Equipping employees with the necessary tools will enable them to further contrib
 
 **The approach:**
 
-.. 2-3 sentences. Describe what this probject will do and how it will deliver value back to the City and the Open Data Initiative. Keep it brief here -- specific deliverables will be added in the next section.
+We will use the business model canvas as a guiding post throughout our project to define the promblem, identify employee key needs, strategize ways to fill in gaps through education tools, create objectives and develop materials which will meet learning needs. 
 
 [Tell us about what this project will attempt and how it will deliver value here.]
 
@@ -58,8 +58,8 @@ Success criteria
 
 We'll know this project has been successfully completed when:
 
-- [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin.]
-- [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.] 
+- Training Materials are up to date
+- New user can easily access and upload data into Data Portal, and find training resources for additional information 
 - [Fruitcake carrot cake cake chocolate cake.]
 
 
@@ -68,8 +68,8 @@ Deliverables
 
 .. AUTHOR INSTRUCTIONS: What artifacts will be delivered by this project? Examples include specific documents, progress reports, feature sets, performance data, events, or presentations. Use as many (or few) bullet points as you like.
 
-- [One deliverable goes here]
-- [Another deliverable goes here]
+- An Updated Wiki site 
+- Update Training Materials 
 - Progress Report
 - End of Project Report
 
