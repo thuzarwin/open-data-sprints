@@ -18,6 +18,7 @@ Team Contacts
 
 Anne Whitlock - anne.whitlock@austintexas.gov 
 
+<<<<<<< HEAD
 **Team members:**
 
 .. raw:: html
@@ -27,7 +28,6 @@ Anne Whitlock - anne.whitlock@austintexas.gov
 
 Project Scope and Charter
 ==============================================
-
 
 Problem Statement
 ----------------------------------------------
