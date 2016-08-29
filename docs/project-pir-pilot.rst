@@ -1,21 +1,33 @@
 ==============================================
-PIR Pilot
+Public Information Request (PIR) Pilot
 ==============================================
 
-+-------------------------------------------------------------+
-|  Project Coordinator                                        |
-+=============================================================+
-|  Anne Whitlock - anne.whitlock@austintexas.gov              |
-+-------------------------------------------------------------+
-
-
-Project Scope and Charter
-==============================================
++------------+----------------------------+
+| Sprint 2.2 | Aug 2016 - Nov 2016        |
++------------+----------------------------+
 
 .. AUTHOR INSTRUCTIONS: Replace the [placeholder text] with the name of your project.
 
-The purpose of this document is to describe the PIR Pilot project of Open Data Initiative at the City of Austin. It identifies the problem statement, key partners, documents, and succes criteria. Throughout the project, progress reports and final reports will be added to the bottom of this document. 
+The purpose of this document is to describe a project facilitated by the City of Austin's Open Data Initiative. It contains key contact information, the project scope and charter -- which identifies the problem statement, key partners, documents, and succes criteria -- and links to working documents. Throughout the project, progress and final reports will be appended to provide a comprehensive account of the work and value delivered. 
 
+
+Team Contacts
+==============================================
+
+**Project coordinator:**
+
+Anne Whitlock - anne.whitlock@austintexas.gov 
+
+<<<<<<< HEAD
+**Team members:**
+
+.. raw:: html
+
+	<iframe class="airtable-embed" src="https://airtable.com/embed/shrs4MtqgTNpmg7XY?backgroundColor=gray" frameborder="0" onmousewheel="" width="100%" height="400" style="background: transparent; border: 1px solid #ccc;"></iframe>
+	<hr/>
+
+Project Scope and Charter
+==============================================
 
 Problem Statement
 ----------------------------------------------
