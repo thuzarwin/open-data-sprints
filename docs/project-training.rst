@@ -77,7 +77,7 @@ Key users/customers
 
 .. AUTHOR INSTRUCTIONS: What types of users/people will be most affected by this project? This helps readers understand your project's target audience. Use as many (or few) bullet points as you like.
 
-- [Amet tiramisu apple pie sweet pudding.]
+- Open Data Liaisons
 - [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin.]
 - [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.] 
 - [Fruitcake carrot cake cake chocolate cake.]
