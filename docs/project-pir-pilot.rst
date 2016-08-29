@@ -44,7 +44,7 @@ Problem Statement
 
 .. 1-2 sentences. Why should we address this? What value would be gained by solving this problem now?
 
-•	Reduce employee time spent on recurring request
+•	Sharing public information upon request will reduce the repetitive request and provide potentially greater impact at little to no extra cost
 •	Increased transparency
 •	Reduction in PIR submitted by requesters
 
