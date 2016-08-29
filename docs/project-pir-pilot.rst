@@ -64,6 +64,7 @@ Success criteria
 We'll know this project has been successfully completed when:
 
 •	Prompt access to information that is not confidential or otherwise protected 
+•	Provide accountability metrics of how many proactively released datasets were previously request under public information requests
 
 
 Deliverables
@@ -71,11 +72,7 @@ Deliverables
 
 .. AUTHOR INSTRUCTIONS: What artifacts will be delivered by this project? Examples include specific documents, progress reports, feature sets, performance data, events, or presentations. Use as many (or few) bullet points as you like.
 
-- [One deliverable goes here]
-- [Another deliverable goes here]
-- Progress Report
-- End of Project Report
-
+•	Connect responses to public information request through policy and technology
 
 Key users/customers
 ----------------------------------------------
@@ -93,10 +90,10 @@ Key dates
 
 .. AUTHOR INSTRUCTIONS: What dates are important? Ideas for key dates include progress report due dates, target milestone dates, end of project report due date. Use as many (or few) bullet points as you like.
 
-- [Jan 1, 2999]: [Amet tiramisu apple pie sweet pudding.]
-- [Jan 1, 2999]: [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin. 
-- [Jan 1, 2999]: [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.] 
-- [Jan 1, 2999]: [Fruitcake carrot cake cake chocolate cake.]
+- [September 30, 2016]: [TBD]
+- [October 28, 2016]: [TBD] 
+- [November 2016]: [TBD] 
+
 
 
 Working documents
