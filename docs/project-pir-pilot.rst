@@ -8,7 +8,7 @@ Public Information Request (PIR) Pilot
 
 .. AUTHOR INSTRUCTIONS: Replace the [placeholder text] with the name of your project.
 
-The purpose of this document is to describe a project facilitated by the City of Austin's Open Data Initiative. It contains key contact information, the project scope and charter -- which identifies the problem statement, key partners, documents, and succes criteria -- and links to working documents. Throughout the project, progress and final reports will be appended to provide a comprehensive account of the work and value delivered. 
+The purpose of this document is to describe a project facilitated by the City of Austin's Open Data Initiative. It contains key contact information, the project scope and charter -- which identifies the problem statement, key partners, documents, and success criteria -- and links to working documents. Throughout the project, progress and final reports will be appended to provide a comprehensive account of the work and value delivered. 
 
 
 Team Contacts
@@ -44,13 +44,18 @@ Problem Statement
 
 .. 1-2 sentences. Why should we address this? What value would be gained by solving this problem now?
 
-[Tell us about the potential benefits of addressing this problem here.]
+•	Reduce employee time spent on recurring request
+•	Increased transparency
+•	Reduction in PIR submitted by requesters
 
 **The approach:**
 
 .. 2-3 sentences. Describe what this probject will do and how it will deliver value back to the City and the Open Data Initiative. Keep it brief here -- specific deliverables will be added in the next section.
 
-[Tell us about what this project will attempt and how it will deliver value here.]
+•	Identify the fears or misconceptions of not sharing 
+•	Review current PIR data available
+•	Determine what to propose to Law to share 
+
 
 Success criteria
 ----------------------------------------------
@@ -59,9 +64,7 @@ Success criteria
 
 We'll know this project has been successfully completed when:
 
-- [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin.]
-- [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.] 
-- [Fruitcake carrot cake cake chocolate cake.]
+•	Prompt access to information that is not confidential or otherwise protected 
 
 Deliverables
 ----------------------------------------------
@@ -78,10 +81,10 @@ Key users/customers
 
 .. AUTHOR INSTRUCTIONS: What types of users/people will be most affected by this project? This helps readers understand your project's target audience. Use bullet points.
 
-- [Amet tiramisu apple pie sweet pudding.]
-- [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin.]
-- [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.] 
-- [Fruitcake carrot cake cake chocolate cake.]
+•	Law Department
+•	Open Data Liaisons
+•	Open government and transparency advocates
+
 
 Key dates
 ----------------------------------------------
