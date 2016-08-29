@@ -65,11 +65,9 @@ We'll know this project has been successfully completed when:
 
 •	Prompt access to information that is not confidential or otherwise protected 
 •	Provide accountability metrics of how many proactively released datasets were previously request under public information requests
-	o	Ability to view submitted request by unique id, date received, request and due date
-	o	Ability to track a request
-	o	Display Number of received request vs. reports published and the
-		City of Austin (total)
-		City of Austin Department (is this doable since some request can involve more than one department to respond)
+	- Ability to view submitted request by unique id, date received, request and due date
+	- Ability to track a request
+	- Display Number of received request vs. reports published for total submitted to the city and by each department 
 
 
 Deliverables
