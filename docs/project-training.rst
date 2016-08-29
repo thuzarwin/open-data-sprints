@@ -56,8 +56,8 @@ Success criteria
 
 We'll know this project has been successfully completed when:
 
-- Training Materials are up to date
-- New user can easily access and upload data into Data Portal, and find training resources for additional information 
+- Training Materials are up-to-date
+- New users can easily access and upload data into the Data Portal, and find training resources for additional information 
 - [Fruitcake carrot cake cake chocolate cake.]
 
 
