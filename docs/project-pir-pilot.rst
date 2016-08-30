@@ -46,9 +46,9 @@ Unable to determine trends and provide data sets for departments frequently aske
 
 .. 1-2 sentences. Why should we address this? What value would be gained by solving this problem now?
 
-•	Sharing public information upon request will reduce the repetitive request and provide potentially greater impact at little to no extra cost
-•	Increased transparency
-•	Reduction in PIR submitted by requesters
+- Sharing public information upon request will reduce the repetitive request and provide potentially greater impact at little to no extra cost
+- Increased transparency
+- Reduction in PIR submitted by requesters
 
 **The approach:**
 
@@ -108,6 +108,7 @@ Working documents
 .. AUTHOR INSTRUCTIONS: Where does your documentation live? Link to meeting minutes, draft docs, etc from github, google docs, or wherever here. Test the links to make sure they're readable for anyone who clicks. Use as many (or few) bullet points as you like.
 
 - (https://a860-openrecords.nyc.gov/ "New York City Open Records Beta Site")
+- `New York City Open Records Beta Site <https://a860-openrecords.nyc.gov/>`_
 - (http://www.portofseattlepolice.nextrequest.com/ "Port of Seattle Police Open Data Record Site")
 
 
