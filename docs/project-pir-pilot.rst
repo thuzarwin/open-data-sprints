@@ -17,7 +17,6 @@ Team Contacts
 **Project coordinators:**
 
 Anne Whitlock - anne.whitlock@austintexas.gov 
-Brad McCarty - brad.mccarty@austintexas.gov
 
 .. raw:: html
 
