@@ -14,12 +14,19 @@ The purpose of this document is to describe a project facilitated by the City of
 Team Contacts
 ==============================================
 
-**Project coordinator:**
+**Project coordinators:**
 
 Anne Whitlock - anne.whitlock@austintexas.gov 
+Brad McCarty - brad.mccarty@austintexas.gov
 
 **Team members:**
-(https://www.
+1. Erin Benoit
+2. Paul Frank 
+3. Liz Jambor
+4. Gavin Lambert
+5. Julia Robbins 
+6. Tomas Salinas
+6. 
 .. raw:: html
 
 	<iframe class="airtable-embed" src="https://airtable.com/embed/shrs4MtqgTNpmg7XY?backgroundColor=gray" frameborder="0" onmousewheel="" width="100%" height="400" style="background: transparent; border: 1px solid #ccc;"></iframe>
