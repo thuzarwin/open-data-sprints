@@ -20,12 +20,12 @@ Anne Whitlock - anne.whitlock@austintexas.gov
 Brad McCarty - brad.mccarty@austintexas.gov
 
 **Team members:**
-..1. Erin Benoit
-..2. Paul Frank 
-..3. Liz Jambor
-..4. Gavin Lambert
-..5. Julia Robbins 
-..6. Tomas Salinas
+. . 1. Erin Benoit
+2. Paul Frank 
+3. Liz Jambor
+4. Gavin Lambert
+5. Julia Robbins 
+6. Tomas Salinas
 
 
 Project Scope and Charter
