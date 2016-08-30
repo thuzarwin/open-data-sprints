@@ -54,9 +54,9 @@ Unable to determine trends and provide data sets for departments frequently aske
 
 .. 2-3 sentences. Describe what this probject will do and how it will deliver value back to the City and the Open Data Initiative. Keep it brief here -- specific deliverables will be added in the next section.
 
-•	Identify the fears and misconceptions of not sharing
-•	Review current PIR data
-•	Determine what department data sets to propose to Law for guidance and approval
+- Identify the fears and misconceptions of not sharing
+- Review current PIR data
+- Determine what department data sets to propose to Law for guidance and approval
 
 
 Success criteria
@@ -66,9 +66,9 @@ Success criteria
 
 We'll know this project has been successfully completed when:
 
-•	Prompt access to information that is not confidential or otherwise protected 
-•	Provide accountability metrics of how many proactively released datasets were previously request under public information requests
-	..* Ability to view submitted request by unique id, date received, request and due date
+- Prompt access to information that is not confidential or otherwise protected 
+- Provide accountability metrics of how many proactively released datasets were previously request under public information requests
+-..Ability to view submitted request by unique id, date received, request and due date
 	..* Ability to track a request
 	..* Display Number of received request vs. reports published for total submitted to the city and by each department 
 
