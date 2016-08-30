@@ -68,9 +68,9 @@ We'll know this project has been successfully completed when:
 
 - Prompt access to information that is not confidential or otherwise protected 
 - Provide accountability metrics of how many proactively released datasets were previously request under public information requests
--..Ability to view submitted request by unique id, date received, request and due date
-	..* Ability to track a request
-	..* Display Number of received request vs. reports published for total submitted to the city and by each department 
+.. Ability to view submitted request by unique id, date received, request and due date
+.. Ability to track a request
+.. Display Number of received request vs. reports published for total submitted to the city and by each department 
 
 
 Deliverables
@@ -78,16 +78,16 @@ Deliverables
 
 .. AUTHOR INSTRUCTIONS: What artifacts will be delivered by this project? Examples include specific documents, progress reports, feature sets, performance data, events, or presentations. Use as many (or few) bullet points as you like.
 
-•	Connect responses to public information request through policy and technology
+- Connect responses to public information request through policy and technology
 
 Key users/customers
 ----------------------------------------------
 
 .. AUTHOR INSTRUCTIONS: What types of users/people will be most affected by this project? This helps readers understand your project's target audience. Use as many (or few) bullet points as you like.
 
-•	Law Department
-•	Open Data Liaisons
-•	Open government and transparency advocates
+- Law Department
+- Open Data Liaisons
+- Open government and transparency advocates
 
 
 
@@ -107,9 +107,8 @@ Working documents
 
 .. AUTHOR INSTRUCTIONS: Where does your documentation live? Link to meeting minutes, draft docs, etc from github, google docs, or wherever here. Test the links to make sure they're readable for anyone who clicks. Use as many (or few) bullet points as you like.
 
-- (https://a860-openrecords.nyc.gov/ "New York City Open Records Beta Site")
 - `New York City Open Records Beta Site <https://a860-openrecords.nyc.gov/>`_
-- (http://www.portofseattlepolice.nextrequest.com/ "Port of Seattle Police Open Data Record Site")
+- 'Port of Seattle Police Open Data Record Site <http://www.portofseattlepolice.nextrequest.com/>`_
 
 
 .. raw:: html
