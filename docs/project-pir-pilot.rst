@@ -68,7 +68,7 @@ We'll know this project has been successfully completed when:
 
 - Prompt access to information that is not confidential or otherwise protected 
 - Provide accountability metrics of how many proactively released datasets were previously request under public information requests
-.. Ability to view submitted request by unique id, date received, request and due date
++ Ability to view submitted request by unique id, date received, request and due date
 .. Ability to track a request
 .. Display Number of received request vs. reports published for total submitted to the city and by each department 
 
@@ -108,7 +108,7 @@ Working documents
 .. AUTHOR INSTRUCTIONS: Where does your documentation live? Link to meeting minutes, draft docs, etc from github, google docs, or wherever here. Test the links to make sure they're readable for anyone who clicks. Use as many (or few) bullet points as you like.
 
 - `New York City Open Records Beta Site <https://a860-openrecords.nyc.gov/>`_
-- 'Port of Seattle Police Open Data Record Site <http://www.portofseattlepolice.nextrequest.com/>`_
+- `Port of Seattle Police Open Data Record Site <http://www.portofseattlepolice.nextrequest.com/>`_
 
 
 .. raw:: html
