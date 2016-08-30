@@ -26,11 +26,7 @@ Brad McCarty - brad.mccarty@austintexas.gov
 4. Gavin Lambert
 5. Julia Robbins 
 6. Tomas Salinas
-6. 
-.. raw:: html
 
-	<iframe class="airtable-embed" src="https://airtable.com/embed/shrs4MtqgTNpmg7XY?backgroundColor=gray" frameborder="0" onmousewheel="" width="100%" height="400" style="background: transparent; border: 1px solid #ccc;"></iframe>
-	<hr/>
 
 Project Scope and Charter
 ==============================================
