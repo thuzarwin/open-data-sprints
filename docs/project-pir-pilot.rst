@@ -104,7 +104,7 @@ Working documents
 
 .. AUTHOR INSTRUCTIONS: Where does your documentation live? Link to meeting minutes, draft docs, etc from github, google docs, or wherever here. Test the links to make sure they're readable for anyone who clicks. Use as many (or few) bullet points as you like.
 
-- [Amet tiramisu apple pie sweet pudding.]
+- (https://a860-openrecords.nyc.gov/ "New York City Open Records Beta Site")
 - [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin.] 
 - [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.]
 - [Fruitcake carrot cake cake chocolate cake.]
