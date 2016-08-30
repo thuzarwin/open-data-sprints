@@ -19,7 +19,7 @@ Team Contacts
 Anne Whitlock - anne.whitlock@austintexas.gov 
 
 **Team members:**
-
+(https://www.
 .. raw:: html
 
 	<iframe class="airtable-embed" src="https://airtable.com/embed/shrs4MtqgTNpmg7XY?backgroundColor=gray" frameborder="0" onmousewheel="" width="100%" height="400" style="background: transparent; border: 1px solid #ccc;"></iframe>
@@ -51,9 +51,7 @@ Problem Statement
 
 .. 2-3 sentences. Describe what this probject will do and how it will deliver value back to the City and the Open Data Initiative. Keep it brief here -- specific deliverables will be added in the next section.
 
-•	Identify the fears or misconceptions of not sharing 
-•	Review current PIR data available
-•	Determine what to propose to Law to share 
+
 
 
 Success criteria
@@ -65,9 +63,9 @@ We'll know this project has been successfully completed when:
 
 •	Prompt access to information that is not confidential or otherwise protected 
 •	Provide accountability metrics of how many proactively released datasets were previously request under public information requests
-	- Ability to view submitted request by unique id, date received, request and due date
-	- Ability to track a request
-	- Display Number of received request vs. reports published for total submitted to the city and by each department 
+	..* Ability to view submitted request by unique id, date received, request and due date
+	..* Ability to track a request
+	..* Display Number of received request vs. reports published for total submitted to the city and by each department 
 
 
 Deliverables
@@ -105,9 +103,8 @@ Working documents
 .. AUTHOR INSTRUCTIONS: Where does your documentation live? Link to meeting minutes, draft docs, etc from github, google docs, or wherever here. Test the links to make sure they're readable for anyone who clicks. Use as many (or few) bullet points as you like.
 
 - (https://a860-openrecords.nyc.gov/ "New York City Open Records Beta Site")
-- [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin.] 
-- [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.]
-- [Fruitcake carrot cake cake chocolate cake.]
+- (http://www.portofseattlepolice.nextrequest.com/ "Port of Seattle Police Open Data Record Site")
+
 
 .. raw:: html
 
