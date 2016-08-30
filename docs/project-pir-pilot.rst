@@ -20,7 +20,7 @@ Anne Whitlock - anne.whitlock@austintexas.gov
 Brad McCarty - brad.mccarty@austintexas.gov
 
 **Team members:**
-. . 1. Erin Benoit
+1. Erin Benoit
 2. Paul Frank 
 3. Liz Jambor
 4. Gavin Lambert
@@ -40,7 +40,7 @@ Problem Statement
 
 .. 2-3 sentences. What are the basic facts of the problem?
 
-[Tell us about the problem here.]
+Unable to determine trends and provide data sets for departments frequently asked request.
 
 **Why it matters:**
 
