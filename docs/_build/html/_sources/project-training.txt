@@ -66,7 +66,7 @@ Deliverables
 
 .. AUTHOR INSTRUCTIONS: What artifacts will be delivered by this project? Examples include specific documents, progress reports, feature sets, performance data, events, or presentations. Use as many (or few) bullet points as you like.
 
-- An Updated Wiki site 
+- 
 - Update Training Materials 
 - Progress Report
 - End of Project Report
