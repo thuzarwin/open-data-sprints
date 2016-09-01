@@ -53,7 +53,7 @@ At the Department level, [... insert language to address Stefan's `suggestion <h
 
 .. 2-3 sentences. Describe what this probject will do and how it will deliver value back to the City and the Open Data Initiative. Keep it brief here -- specific deliverables will be added in the next section.
 
-This project involves three main activities. First, we will generate a minimal version open data plan for each department based on the contents of the most recently approved City budget document. Second, we will use a selection of the City's existing performance indicators to create deliverables for a new data assessment project. Third, we will deploy the assessment project and create a public website to display our progress.
+This project involves three main activities. First, we will generate a minimal-style open data plan for each department which will become the foundation for enhanced plan documents in future sprints. Second, we will use a selection of the City's existing performance indicators to create deliverables for a new data assessment project. Third, we will deploy the assessment project and create a public website to display our progress.
 
 Success criteria
 ----------------------------------------------
@@ -62,7 +62,7 @@ Success criteria
 
 We'll know this project has been successfully completed when:
 
-- We have published an Open Data Plan document for each City Department at plans.opendata.rocks
+- We have published a basic Open Data Plan document for each City Department at plans.opendata.rocks
 - We can measure how many of the City's Key Performance Indicators can be sourced from raw, structured data
 - We have completed our project deliverables, including progress and final reports
 
