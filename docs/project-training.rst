@@ -65,8 +65,8 @@ We will use the business model canvas and IBM Design Thinking Field Guide as a g
 
  Activities
    	- User Interviews - Interview Open data city employees and Data Liaisons 
-   	- User Testing - Take a Socrata course and share your experience
-   	- Diary Study - Team members document and develop a fieldwork dairy as they shadow a Open data liason or open data city employee throughout their day to day using Socarata Open Data portal and attending a Socrata class.   
+   	- User Testing - Team members take a Socrata course and share experiences
+   	- Diary Study - record experiences and thoughts about Socrata Training materials and Socrata Open Data Portal in a journal. Also document user experiences while using product.   
    	- Questionarre - Surveying target users to learn what the needs are  and what types of educational content, training materials they require.  
 
 Success criteria
@@ -76,9 +76,9 @@ Success criteria
 
 We'll know this project has been successfully completed when:
 
-- Training Materials are up-to-date
-- New users can easily access and upload data into the Data Portal, and find training resources for additional information 
-- [Fruitcake carrot cake cake chocolate cake.]
+- Training Materials are up-to-date.
+- New Data Liaisons and city employees can easily access and upload data into the Data Portal, and find training resources for additional information without contacting support or an Open Data team member.
+- The training materials answer Data Liaisons' technical questions.
 
 
 Deliverables
@@ -86,11 +86,11 @@ Deliverables
 
 .. AUTHOR INSTRUCTIONS: What artifacts will be delivered by this project? Examples include specific documents, progress reports, feature sets, performance data, events, or presentations. Use as many (or few) bullet points as you like.
 
+- Provide a "one stop shop" for users to access training materials
+- Updated training materials 
+- Develop a "library" for all ranging from Data Liaisons to curious Open Data city employees
+- Provide Data Liaisons and city employees 2 custom courses of their choosing developed by Socrata 
 - 
-- Update Training Materials 
-- Progress Report
-- End of Project Report
-
 
 Key users/customers
 ----------------------------------------------
@@ -98,18 +98,15 @@ Key users/customers
 .. AUTHOR INSTRUCTIONS: What types of users/people will be most affected by this project? This helps readers understand your project's target audience. Use as many (or few) bullet points as you like.
 
 - Open Data Liaisons
-- [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin.]
-- [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.] 
-- [Fruitcake carrot cake cake chocolate cake.]
-
+- City Employees
 
 Key dates
 ----------------------------------------------
 
 .. AUTHOR INSTRUCTIONS: What dates are important? Ideas for key dates include progress report due dates, target milestone dates, end of project report due date. Use as many (or few) bullet points as you like.
 
-- [Jan 1, 2999]: [Amet tiramisu apple pie sweet pudding.]
-- [Jan 1, 2999]: [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin. 
+- September 9, 2016:  
+- September 16, 2016: [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin. 
 - [Jan 1, 2999]: [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.] 
 - [Jan 1, 2999]: [Fruitcake carrot cake cake chocolate cake.]
 
