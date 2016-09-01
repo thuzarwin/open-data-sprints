@@ -61,7 +61,7 @@ We will use the business model canvas and IBM Design Thinking Field Guide as a g
 
 **Week 2, 3...: Explore:**
 
-- Conduct on going research
+- Conduct research
 
  Activities
    	- User Interviews - Interview Open data city employees and Data Liaisons 
