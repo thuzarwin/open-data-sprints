@@ -51,7 +51,7 @@ We will use the business model canvas and IBM Design Thinking Field Guide as a g
 
 **Week 1-2: Understanding** 
 
-- Define Problem 
+- Define Problem and why it matters
 - Define the user: Who are they? what do they think, feel, say and do?
 - Become the user - Determine user's experience and constraints 
    
@@ -79,7 +79,8 @@ We'll know this project has been successfully completed when:
 - Training Materials are up-to-date.
 - New Data Liaisons and city employees can easily access and upload data into the Data Portal, and find training resources for additional information without contacting support or an Open Data team member.
 - The training materials answer Data Liaisons' technical questions.
-
+{Insert hill: who, what, wow}
+{Instert hill: who, what, wow }
 
 Deliverables
 ----------------------------------------------
@@ -90,6 +91,13 @@ Deliverables
 - Updated training materials 
 - Develop a "library" for all users ranging from Data Liaisons to curious Open Data city employees
 - Provide Data Liaisons and city employees 2 custom courses of their choosing developed by Socrata 
+- Develop training materials for the following courses which Data Liasons have requested:
+  
+	- Data Set Update
+	- Meta data Update
+	- Perspectives 
+	- Open Performance
+	- Data Lens
 
 Key users/customers
 ----------------------------------------------
@@ -104,7 +112,7 @@ Key dates
 
 .. AUTHOR INSTRUCTIONS: What dates are important? Ideas for key dates include progress report due dates, target milestone dates, end of project report due date. Use as many (or few) bullet points as you like.
 
-- September 9, 2016:  
+- September 13, 2016: Gather custom courses requests from Data Liaisons and city employees and relay back to Socrata Education Team.
 - September 16, 2016: [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin. 
 - [Jan 1, 2999]: [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.] 
 - [Jan 1, 2999]: [Fruitcake carrot cake cake chocolate cake.]
