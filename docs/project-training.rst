@@ -88,9 +88,8 @@ Deliverables
 
 - Provide a "one stop shop" for users to access training materials
 - Updated training materials 
-- Develop a "library" for all ranging from Data Liaisons to curious Open Data city employees
+- Develop a "library" for all users ranging from Data Liaisons to curious Open Data city employees
 - Provide Data Liaisons and city employees 2 custom courses of their choosing developed by Socrata 
-- 
 
 Key users/customers
 ----------------------------------------------
