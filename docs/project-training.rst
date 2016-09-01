@@ -67,7 +67,9 @@ We will use the business model canvas and IBM Design Thinking Field Guide as a g
    	- User Interviews - Interview Open data city employees and Data Liaisons 
    	- User Testing - Team members take a Socrata course and share experiences
    	- Diary Study - record experiences and thoughts about Socrata Training materials and Socrata Open Data Portal in a journal. Also document user experiences while using product.   
-   	- Questionnaire - Surveying target users to learn what the needs are  and what types of educational content, training materials they require.  
+   	- Questionnaire - Surveying target users to learn more about thier needs, wants and desires. 
+   	- Online Survey - Survey users to determine Socrata courses they wish to participate in. 
+   	
 
 Success criteria
 ----------------------------------------------
@@ -80,7 +82,8 @@ We'll know this project has been successfully completed when:
 - New Data Liaisons and city employees can easily access and upload data into the Data Portal, and find training resources for additional information without contacting support or an Open Data team member.
 - The training materials answer Data Liaisons' technical questions.
 {Insert hill: who, what, wow}
-{Instert hill: who, what, wow }
+
+{Insert hill: who, what, wow }
 
 Deliverables
 ----------------------------------------------
