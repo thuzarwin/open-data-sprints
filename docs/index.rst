@@ -28,7 +28,7 @@ View this project on GitHub: https://github.com/cityofaustin/open-data-sprints
    PIR Pilot Project <project-pir-pilot>
    Training Materials Project <project-training>
    Portal Categories Project <project-portal-categories>
-   Open Data Plans and Inventory Project <project-plans-and-inventory>
+   Open Data Plans Reboot <project-open-data-plans>
    Open Data Product Evaluations <project-product-evals>
    Metadata Refresh Project <project-update-metadata>
    
