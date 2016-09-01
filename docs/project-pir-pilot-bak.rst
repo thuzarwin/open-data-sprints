@@ -1,5 +1,5 @@
 ==============================================
-Open Data Training
+Public Information Request (PIR) Pilot
 ==============================================
 
 +------------+----------------------------+
@@ -14,11 +14,9 @@ The purpose of this document is to describe a project facilitated by the City of
 Team Contacts
 ==============================================
 
-**Project coordinator:**
+**Project coordinators:**
 
-Happiness Kisoso - happiness.kisoso@austintexas.gov
-
-**Team members:**
+Anne Whitlock - anne.whitlock@austintexas.gov 
 
 .. raw:: html
 
@@ -29,7 +27,6 @@ Happiness Kisoso - happiness.kisoso@austintexas.gov
 Project Scope and Charter
 ==============================================
 
-
 Problem Statement
 ----------------------------------------------
 
@@ -39,15 +36,24 @@ Problem Statement
 
 .. 2-3 sentences. What are the basic facts of the problem?
 
-
+Unable to determine trends and provide data sets for departments frequently asked request.
 
 **Why it matters:**
 
-Equipping employees with the necessary tools will enable them to further contribute to the city’s Open Data Initiative.
+.. 1-2 sentences. Why should we address this? What value would be gained by solving this problem now?
+
+- Sharing public information upon request will reduce the repetitive request and provide potentially greater impact at little to no extra cost
+- Increased transparency
+- Reduction in PIR submitted by requesters
 
 **The approach:**
 
-We will use the business model canvas as a guiding post throughout our project to define the promblem, identify employee key training needs, strategize ways to fill in gaps through education tools, create objectives and develop materials which will meet learning needs. 
+.. 2-3 sentences. Describe what this probject will do and how it will deliver value back to the City and the Open Data Initiative. Keep it brief here -- specific deliverables will be added in the next section.
+
+- Identify the fears and misconceptions of not sharing
+- Review current PIR data
+- Determine what department data sets to propose to Law for guidance and approval
+
 
 Success criteria
 ----------------------------------------------
@@ -56,9 +62,12 @@ Success criteria
 
 We'll know this project has been successfully completed when:
 
-- Training Materials are up-to-date
-- New users can easily access and upload data into the Data Portal, and find training resources for additional information 
-- [Fruitcake carrot cake cake chocolate cake.]
+- Prompt access to information that is not confidential or otherwise protected 
+- Provide accountability metrics of how many proactively released datasets were previously request under public information requests
+
+Ability to view submitted request by unique id, date received, request and due data. 
+Ability to track a request
+Display Number of received request vs. reports published for total submitted to the city and by each department 
 
 
 Deliverables
@@ -66,21 +75,17 @@ Deliverables
 
 .. AUTHOR INSTRUCTIONS: What artifacts will be delivered by this project? Examples include specific documents, progress reports, feature sets, performance data, events, or presentations. Use as many (or few) bullet points as you like.
 
-- 
-- Update Training Materials 
-- Progress Report
-- End of Project Report
-
+- Connect responses to public information request through policy and technology
 
 Key users/customers
 ----------------------------------------------
 
 .. AUTHOR INSTRUCTIONS: What types of users/people will be most affected by this project? This helps readers understand your project's target audience. Use as many (or few) bullet points as you like.
 
+- Law Department
 - Open Data Liaisons
-- [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin.]
-- [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.] 
-- [Fruitcake carrot cake cake chocolate cake.]
+- Open government and transparency advocates
+
 
 
 Key dates
@@ -88,10 +93,10 @@ Key dates
 
 .. AUTHOR INSTRUCTIONS: What dates are important? Ideas for key dates include progress report due dates, target milestone dates, end of project report due date. Use as many (or few) bullet points as you like.
 
-- [Jan 1, 2999]: [Amet tiramisu apple pie sweet pudding.]
-- [Jan 1, 2999]: [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin. 
-- [Jan 1, 2999]: [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.] 
-- [Jan 1, 2999]: [Fruitcake carrot cake cake chocolate cake.]
+- [September 30, 2016]: [TBD]
+- [October 28, 2016]: [TBD] 
+- [November 2016]: [TBD] 
+
 
 
 Working documents
@@ -99,10 +104,9 @@ Working documents
 
 .. AUTHOR INSTRUCTIONS: Where does your documentation live? Link to meeting minutes, draft docs, etc from github, google docs, or wherever here. Test the links to make sure they're readable for anyone who clicks. Use as many (or few) bullet points as you like.
 
-- [Amet tiramisu apple pie sweet pudding.]
-- [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin.] 
-- [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.]
-- [Fruitcake carrot cake cake chocolate cake.]
+- `New York City Open Records Beta Site <https://a860-openrecords.nyc.gov/>`_
+- `Port of Seattle Police Open Data Record Site <http://www.portofseattlepolice.nextrequest.com/>`_
+
 
 .. raw:: html
 
@@ -128,3 +132,4 @@ End of Project Report
 .. AUTHOR INSTRUCTIONS: Copy the final report template that's located [here] and paste it underneath this header.  Fill in that template to complete your report. High five, your documentation is complete! Many thanks!
 
 [end of project report template will go here]
+
