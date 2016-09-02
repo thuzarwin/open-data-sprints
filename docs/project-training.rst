@@ -140,10 +140,19 @@ Progress Reports
 
 .. AUTHOR INSTRUCTIONS: Start with the date for each progress report. Copy the template that's located [here] and paste it underneath the date header. Fill in that template to complete your report. Repeat for as many progress reports as needed. 
 
-Sep 23, 2016
+Sep ?, 2016
 ----------------------------------------------
 
-[progress report template will go here]
+[progress report template coming soon]
+
+.. raw:: html
+
+	<hr/>
+
+Oct ?, 2016
+----------------------------------------------
+
+[progress report template coming soon]
 
 .. raw:: html
 
@@ -154,4 +163,4 @@ End of Project Report
 
 .. AUTHOR INSTRUCTIONS: Copy the final report template that's located [here] and paste it underneath this header.  Fill in that template to complete your report. High five, your documentation is complete! Many thanks!
 
-[end of project report template will go here]
+[end of project report template coming soon]
