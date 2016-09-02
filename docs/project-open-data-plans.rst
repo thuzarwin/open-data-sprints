@@ -109,9 +109,9 @@ Working documents
 .. AUTHOR INSTRUCTIONS: Where does your documentation live? Link to meeting minutes, draft docs, etc from github, google docs, or wherever here. Test the links to make sure they're readable for anyone who clicks.
 
 - Performance indicator spreadsheet
-- List of things to work next and later
-- `Project issues and to-items on GitHub <https://github.com/cityofaustin/open-data-plans/issues>`_
-- Online catalog of Open Data Plans
+- `List of things to work next and later <https://github.com/cityofaustin/open-data-plans/blob/master/now-next-later-items.md>`_
+- `Project issues and to do items on GitHub <https://github.com/cityofaustin/open-data-plans/issues>`_
+- `Online catalog of Open Data Plans <http://plans.opendata.rocks>`_
 
 .. raw:: html
 
