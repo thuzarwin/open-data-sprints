@@ -43,11 +43,33 @@ Problem Statement
 
 **Why it matters:**
 
-Equipping employees with the necessary tools will enable them to further contribute to the city’s Open Data Initiative.
+Equipping city employees with the necessary tools will enable them to further contribute to the city’s Open Data Initiative.
 
 **The approach:**
 
-We will use the business model canvas as a guiding post throughout our project to define the promblem, identify employee key training needs, strategize ways to fill in gaps through education tools, create objectives and develop materials which will meet learning needs. 
+We will use the business model canvas and IBM Design Thinking Field Guide as a guiding post throughout our project to define the promblem, identify employee key training needs, strategize ways to fill in gaps through education tools, create objectives and develop materials which will meet learning needs. 
+
+**Week 1-2: Understanding** 
+
+- Define Problem and why it matters
+- Define the user: Who are they? what do they think, feel, say and do?
+- Become the user - Determine user's experience and constraints 
+   
+   Activities
+   	- Develop Personas
+   	- Mind Mapping 
+
+**Week 2, 3...: Explore:**
+
+- Conduct research
+
+ Activities
+   	- User Interviews - Interview Open data city employees and Data Liaisons 
+   	- User Testing - Team members take a Socrata course and share experiences
+   	- Diary Study - record experiences and thoughts about Socrata Training materials and Socrata Open Data Portal in a journal. Also document user experiences while using product.   
+   	- Questionnaire - Surveying target users to learn more about thier needs, wants and desires. 
+   	- Online Survey - Survey users to determine Socrata courses they wish to participate in. 
+   	
 
 Success criteria
 ----------------------------------------------
@@ -56,21 +78,29 @@ Success criteria
 
 We'll know this project has been successfully completed when:
 
-- Training Materials are up-to-date
-- New users can easily access and upload data into the Data Portal, and find training resources for additional information 
-- [Fruitcake carrot cake cake chocolate cake.]
+- Training Materials are up-to-date.
+- New Data Liaisons and city employees can easily access and upload data into the Data Portal, and find training resources for additional information without contacting support or an Open Data team member.
+- The training materials answer Data Liaisons' technical questions.
+{Insert hill: who, what, wow}
 
+{Insert hill: who, what, wow }
 
 Deliverables
 ----------------------------------------------
 
 .. AUTHOR INSTRUCTIONS: What artifacts will be delivered by this project? Examples include specific documents, progress reports, feature sets, performance data, events, or presentations. Use as many (or few) bullet points as you like.
 
-- 
-- Update Training Materials 
-- Progress Report
-- End of Project Report
-
+- Provide a "one stop shop" for users to access training materials
+- Updated training materials 
+- Develop a "library" for all users ranging from Data Liaisons to curious Open Data city employees
+- Provide Data Liaisons and city employees 2 custom courses of their choosing developed by Socrata 
+- Develop training materials for the following courses which Data Liasons have requested:
+  
+	- Data Set Update
+	- Meta data Update
+	- Perspectives 
+	- Open Performance
+	- Data Lens
 
 Key users/customers
 ----------------------------------------------
@@ -78,18 +108,15 @@ Key users/customers
 .. AUTHOR INSTRUCTIONS: What types of users/people will be most affected by this project? This helps readers understand your project's target audience. Use as many (or few) bullet points as you like.
 
 - Open Data Liaisons
-- [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin.]
-- [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.] 
-- [Fruitcake carrot cake cake chocolate cake.]
-
+- City Employees
 
 Key dates
 ----------------------------------------------
 
 .. AUTHOR INSTRUCTIONS: What dates are important? Ideas for key dates include progress report due dates, target milestone dates, end of project report due date. Use as many (or few) bullet points as you like.
 
-- [Jan 1, 2999]: [Amet tiramisu apple pie sweet pudding.]
-- [Jan 1, 2999]: [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin. 
+- September 13, 2016: Gather custom courses requests from Data Liaisons and city employees and relay back to Socrata Education Team.
+- September 16, 2016: [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin. 
 - [Jan 1, 2999]: [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.] 
 - [Jan 1, 2999]: [Fruitcake carrot cake cake chocolate cake.]
 
