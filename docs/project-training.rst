@@ -67,8 +67,8 @@ We will use the business model canvas and IBM Design Thinking Field Guide as a g
    	- User Interviews - Interview Open data city employees and Data Liaisons 
    	- User Testing - Team members take a Socrata course and share experiences
    	- Diary Study - record experiences and thoughts about Socrata Training materials and Socrata Open Data Portal in a journal. Also document user experiences while using product.   
-   	- Questionnaire - Surveying target users to learn more about thier needs, wants and desires. 
-   	- Online Survey - Survey users to determine Socrata courses they wish to participate in. 
+   	- Online Questionnaire - Surveying target users to learn more about thier needs, wants and desires. 
+   	- Online Custom Course Survey - Survey users to determine Socrata courses they wish to participate in. 
    	
 
 Success criteria
