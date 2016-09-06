@@ -7,7 +7,7 @@ Open Data Training
 +------------+----------------------------+
 
 .. AUTHOR INSTRUCTIONS: Replace the [placeholder text] with the name of your project.
-
+September
 The purpose of this document is to describe a project facilitated by the City of Austin's Open Data Initiative. It contains key contact information, the project scope and charter -- which identifies the problem statement, key partners, documents, and success criteria -- and links to working documents. Throughout the project, progress and final reports will be appended to provide a comprehensive account of the work and value delivered. 
 
 
@@ -106,7 +106,7 @@ Key users/customers
 ----------------------------------------------
 
 .. AUTHOR INSTRUCTIONS: What types of users/people will be most affected by this project? This helps readers understand your project's target audience. Use as many (or few) bullet points as you like.
-- The primary users of the open data training materials and resources are Open Data Liaisons. Open Data Liaisons are city employees that act as the link between the data and thier department.
+- The primary users of the open data training materials and resources are Open Data Liaisons. Open Data Liaisons are city employees that act as the link between the data and their department.
 - We also choose to focus on City Employees who we defined as Open Data Enthuisiasts. These group of people are intrested in Open Data but do not work directly with Socrata Open Data Portal. 
 
 Key dates
