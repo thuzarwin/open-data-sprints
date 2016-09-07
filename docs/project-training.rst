@@ -77,7 +77,7 @@ Activities
 
 - Online Custom Course Survey - Survey users to determine Socrata courses they wish to participate in. 
    
-**Week : Research**
+**Week : Analyze**
 
 **Week : Develop a Strategy**
 
