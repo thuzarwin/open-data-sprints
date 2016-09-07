@@ -55,30 +55,36 @@ We will use the business model canvas and IBM Design Thinking Field Guide as a g
 - Define the user: Who are they? what do they think, feel, say and do?
 - Become the user - Determine user's experience and constraints 
    
-   Activities
-   	- Develop Personas
-   	- Mind Mapping 
+Activities
+- Develop Personas
+
+- Mind Mapping 
 
 **Week 2, 3...: Explore:**
 
 - Conduct research
 
- Activities
-..* User Interviews: Interview Open data city employees and Data Liaisons 
-..* User Testing: Team members take a Socrata course and share experiences
-..* Diary Study: Record experiences and thoughts about Socrata Training materials and Socrata Open Data Portal in a journal.
-..* Online Questionnaire - Surveying target users to learn more about thier needs, wants and desires. 
-..* Online Custom Course Survey - Survey users to determine Socrata courses they wish to participate in. 
+Activities
+
+- User Interviews: Interview Open data city employees and Data Liaisons 
+
+- User Testing: Team members take a Socrata course and share experiences
+
+-  Diary Study: Record experiences and thoughts about Socrata Training materials and Socrata Open Data Portal in a journal.
+
+- Online Questionnaire - Surveying target users to learn more about thier needs, wants and desires. 
+
+- Online Custom Course Survey - Survey users to determine Socrata courses they wish to participate in. 
    
-**Week : Research
+**Week : Research**
 
-**Week : Develop a Strategy 
+**Week : Develop a Strategy**
 
-**Week : Prototype
+**Week : Prototype**
 
-**Week : Test
+**Week : Test**
 
-**Week : Validate
+**Week : Validate**
 
 Success criteria
 ----------------------------------------------
