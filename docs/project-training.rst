@@ -43,11 +43,11 @@ Problem Statement
 
 **Why it matters:**
 
-Equipping Open Data Liaisons and City Employees who are defined as Open Data Enthuisiasts with the necessary tools will enable them to further contribute to the city’s Open Data Initiative.
+Equipping Open Data Liaisons and City Employees with the necessary tools will enable them to further meet their goals and  contribute to the city’s Open Data Initiative.
 
 **The approach:**
 
-We will use the business model canvas and IBM Design Thinking Field Guide as a guiding post throughout our project to define the promblem, identify employee key training needs, strategize ways to fill in gaps through education tools, create objectives and develop materials which will meet learning needs. 
+We will use the business model canvas and IBM Design Thinking Field Guide as guiding posts throughout our project to define and understand the problem, observe and research users, analyze and identify users training needs, strategize ways to fill training need gaps, develop a prototype with users, and validate prototype with users and stakeholders.
 
 **Week 1-2: Understanding** 
 
@@ -71,7 +71,7 @@ Activities
 
 - User Testing: Team members take a Socrata course and share experiences
 
--  Diary Study: Record experiences and thoughts about Socrata Training materials and Socrata Open Data Portal in a journal.
+- Diary Study: Record experiences and thoughts about using Socrata Open Data Portal training in a journal.
 
 - Online Questionnaire - Surveying target users to learn more about thier needs, wants and desires. 
 
