@@ -56,6 +56,7 @@ We will use the business model canvas and IBM Design Thinking Field Guide as a g
 - Become the user - Determine user's experience and constraints 
    
 Activities
+
 - Develop Personas
 
 - Mind Mapping 
