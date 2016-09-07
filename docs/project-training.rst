@@ -43,7 +43,7 @@ Problem Statement
 
 **Why it matters:**
 
-Equipping city employees with the necessary tools will enable them to further contribute to the city’s Open Data Initiative.
+Equipping Open Data Liaisons and City Employees who are defined as Open Data Enthuisiasts with the necessary tools will enable them to further contribute to the city’s Open Data Initiative.
 
 **The approach:**
 
