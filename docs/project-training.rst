@@ -7,7 +7,7 @@ Open Data Training
 +------------+----------------------------+
 
 .. AUTHOR INSTRUCTIONS: Replace the [placeholder text] with the name of your project.
-September
+
 The purpose of this document is to describe a project facilitated by the City of Austin's Open Data Initiative. It contains key contact information, the project scope and charter -- which identifies the problem statement, key partners, documents, and success criteria -- and links to working documents. Throughout the project, progress and final reports will be appended to provide a comprehensive account of the work and value delivered. 
 
 
@@ -64,12 +64,17 @@ We will use the business model canvas and IBM Design Thinking Field Guide as a g
 - Conduct research
 
  Activities
-   	- User Interviews - Interview Open data city employees and Data Liaisons 
-   	- User Testing - Team members take a Socrata course and share experiences
-   	- Diary Study - record experiences and thoughts about Socrata Training materials and Socrata Open Data Portal in a journal. Also document user experiences while using product.   
+   - User Interviews - Interview Open data city employees and Data Liaisons 
+   - User Testing - Team members take a Socrata course and share experiences
+   	- Diary Study - Record experiences and thoughts about Socrata Training materials and Socrata Open Data Portal in a journal.   
    	- Online Questionnaire - Surveying target users to learn more about thier needs, wants and desires. 
    	- Online Custom Course Survey - Survey users to determine Socrata courses they wish to participate in. 
-   	
+   
+**Week : Research 
+**Week : Develop a Strategy 
+**Week : Prototype
+**Week : Test
+**Week : Validate
 
 Success criteria
 ----------------------------------------------
@@ -92,10 +97,9 @@ Deliverables
 
 - Provide a "one stop shop" for users to access training materials
 - Updated training materials 
-- Develop a "library" for all users ranging from Data Liaisons to curious Open Data city employees
+- Develop a "library" for Data Liaisons and City Employees who will or are working with Socrata's Open Data Portal
 - Provide Data Liaisons and city employees 2 custom courses of their choosing developed by Socrata 
 - Develop training materials for the following courses which Data Liasons have requested:
-  
 	- Data Set Update
 	- Meta data Update
 	- Perspectives 
