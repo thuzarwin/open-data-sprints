@@ -97,9 +97,14 @@ We'll know this project has been successfully completed when:
 - Training Materials are up-to-date.
 - New Data Liaisons and city employees can easily access and upload data into the Data Portal, and find training resources for additional information without contacting support or an Open Data team member.
 - The training materials answer Data Liaisons' technical questions.
-{Insert hill: who, what, wow}
 
-{Insert hill: who, what, wow }
+{Insert hill: who, what, wow} A Data Portal Liaison __________________, _______________________________.
+
+ex. It should take no longer than 10 minutes for a Data Liaison to perform the open data portals' necessary duties such as uploading, publishing, creating a story,and so forth while using Open Data Training materials. 
+
+{Insert hill: who, what, wow } A City Employee who is or will be working with the Open Data portal _________, __________.
+
+ex. A City Employee who is or will be working with the Open Data portal  will not have to research solutions or ask other staff members for help instead they can an access training materials 24-7 using Open Data training materials and resources.
 
 Deliverables
 ----------------------------------------------
