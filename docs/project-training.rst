@@ -111,6 +111,7 @@ Deliverables
 - Develop a "library" for Data Liaisons and City Employees who will or are working with Socrata's Open Data Portal
 - Provide Data Liaisons and city employees 2 custom courses of their choosing developed by Socrata 
 - Develop training materials for the following courses which Data Liasons have requested:
+
 	- Data Set 
 	- Metadata 
 	- Perspectives 
