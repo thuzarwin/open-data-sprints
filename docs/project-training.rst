@@ -117,8 +117,8 @@ Deliverables
 - Provide Data Liaisons and city employees 2 custom courses of their choosing developed by Socrata 
 - Develop training materials for the following courses which Data Liasons have requested:
 
-	- Data Set 
-	- Metadata 
+	- Dataset Update
+	- Metadata Update
 	- Perspectives 
 	- Open Performance
 	- Data Lens
