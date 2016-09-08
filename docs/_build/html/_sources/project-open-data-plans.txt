@@ -125,7 +125,7 @@ Progress Reports
 Sep ?, 2016
 ----------------------------------------------
 
-[progress report template will go here]
+[progress report template coming soon]
 
 .. raw:: html
 
@@ -134,7 +134,7 @@ Sep ?, 2016
 Oct ?, 2016
 ----------------------------------------------
 
-[progress report template will go here]
+[progress report template coming soon]
 
 .. raw:: html
 
@@ -145,4 +145,4 @@ End of Project Report
 
 .. AUTHOR INSTRUCTIONS: Copy the final report template that's located [here] and paste it underneath this header.  Fill in that template to complete your report. High five, your documentation is complete! Many thanks!
 
-[end of project report template will go here]
+[end of project report template coming soon]
