@@ -73,9 +73,9 @@ Deliverables
 
 - Template that shows how to format and organize the content of an Open Data Plan
 - Worksheet template to be used by departments to complete the KPI Data Assessment
-- One Open Data Plan for each Department published publically at `plans.opendata.rocks <http://plans.opendata.rocks>`_
-- KPI Data Assessment status dashboard, published online for public access
-- A list of "next" and "later" action items to inform the next project iteration
+- `One Open Data Plan for each Department published publically at <plans.opendata.rocks <http://plans.opendata.rocks>`_
+- Assessment status dashboard, published online for public access
+- `A list of next and later action items to inform the next project iteration <https://github.com/cityofaustin/open-data-plans/blob/master/now-next-later-items.md>`_
 - 30 Day Progress Report, due [sept date tba]
 - 60 Day Progress Report, due [oct date tba]
 - End of Project, due [nov date tba]
@@ -108,10 +108,10 @@ Working documents
 
 .. AUTHOR INSTRUCTIONS: Where does your documentation live? Link to meeting minutes, draft docs, etc from github, google docs, or wherever here. Test the links to make sure they're readable for anyone who clicks.
 
-- Performance indicator spreadsheet
-- List of things to work next and later
-- `Project issues and to-items on GitHub <https://github.com/cityofaustin/open-data-plans/issues>`_
-- Online catalog of Open Data Plans
+- `Performance indicator spreadsheet <https://airtable.com/shrn1vLVz0Fw4036c>`_
+- `List of things to work on next and later <https://github.com/cityofaustin/open-data-plans/blob/master/now-next-later-items.md>`_
+- `Project issues and to do items on GitHub <https://github.com/cityofaustin/open-data-plans/issues>`_
+- `Online catalog of Open Data Plans <http://plans.opendata.rocks>`_
 
 .. raw:: html
 
