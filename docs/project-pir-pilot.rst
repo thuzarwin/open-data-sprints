@@ -36,22 +36,26 @@ Problem Statement
 
 .. 2-3 sentences. What are the basic facts of the problem?
 
-Unable to determine trends and provide data sets for departments frequently asked request.
+Unable to determine trends and provide data sets for departments frequently asked request.  Citizens not accessing open data portal to retrieve answers to information request.  
 
 **Why it matters:**
 
 .. 1-2 sentences. Why should we address this? What value would be gained by solving this problem now?
 
-- Sharing public information upon request will reduce the repetitive request and provide potentially greater impact at little to no extra cost
+- Providing public information in an open format upon request will reduce the repetitive request and provide potentially greater impact at little to no extra cost
 - Increased transparency
+- Increase consistency of responses
 - Reduction in PIR submitted by requesters
+- Reduction in staff time currently committed to PIR processes
 
 **The approach:**
 
 .. 2-3 sentences. Describe what this probject will do and how it will deliver value back to the City and the Open Data Initiative. Keep it brief here -- specific deliverables will be added in the next section.
 
-- Identify the fears and misconceptions of not sharing
-- Review current PIR data
+- Understanding our audience
+- Identify the fears, misconceptions or hurdles of not sharing
+- Identufy proper processes for sharing information and data
+- Review current PIR data available
 - Determine what department data sets to propose to Law for guidance and approval
 
 
@@ -69,6 +73,8 @@ Ability to view submitted request by unique id, date received, request and due d
 Ability to track a request
 Display Number of received request vs. reports published for total submitted to the city and by each department 
 
+- Department SPOCs are educated and empowered to direct citizens to data portal to obtain requested information
+- Increased usage of open data portal
 
 Deliverables
 ----------------------------------------------
@@ -83,6 +89,7 @@ Key users/customers
 .. AUTHOR INSTRUCTIONS: What types of users/people will be most affected by this project? This helps readers understand your project's target audience. Use as many (or few) bullet points as you like.
 
 - Law Department
+- Department PIR SPOC
 - Open Data Liaisons
 - Open government and transparency advocates
 
@@ -106,7 +113,7 @@ Working documents
 
 - `New York City Open Records Beta Site <https://a860-openrecords.nyc.gov/>`_
 - `Port of Seattle Police Open Data Record Site <http://www.portofseattlepolice.nextrequest.com/>`_
-
+- `Texas Attorney General Public Inforamtion Handbook <https://www.texasattorneygeneral.gov/files/og/publicinfo_hb.pdf/>`_
 
 .. raw:: html
 
