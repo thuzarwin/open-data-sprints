@@ -73,7 +73,7 @@ Activities
 
 - Diary Study: Record experiences and thoughts about using Socrata Open Data Portal training in a journal.
 
-- Online Questionnaire - Surveying target users to learn more about thier needs, wants and desires. 
+- Online Questionnaire - Survey target users to learn more about their needs, wants and desires. 
 
 - Online Custom Course Survey - Survey users to determine Socrata courses they wish to participate in. 
    
