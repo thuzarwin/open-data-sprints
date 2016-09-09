@@ -38,19 +38,24 @@ Problem Statement
 
 .. 2-3 sentences. What are the basic facts of the problem?
 
-[Tell us about the problem here.]
+The City does not currently have a core open data hosting product requirements.  We wish to gather these requirements and evaluate product solutions to see if they meet our needs.
 
 **Why it matters:**
 
 .. 1-2 sentences. Why should we address this? What value would be gained by solving this problem now?
 
-[Tell us about the potential benefits of addressing this problem here.]
+As the City of Austin's Open Data Initiative has evolved, the current product offerings have limitations or lack features sufficient for our growing needs.
 
 **The approach:**
 
 .. 2-3 sentences. Describe what this probject will do and how it will deliver value back to the City and the Open Data Initiative. Keep it brief here -- specific deliverables will be added in the next section.
 
-[Tell us about what this project will attempt and how it will deliver value here.]
+-Ideation session
+-Quick user profiles
+-Draft of evaluation criteria
+-Develop approach for feedback collection (time limited)
+ -Analyze results
+ -Proposed evaluation matrix
 
 Success criteria
 ----------------------------------------------
@@ -59,9 +64,9 @@ Success criteria
 
 We'll know this project has been successfully completed when:
 
-- [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin.]
-- [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.] 
-- [Fruitcake carrot cake cake chocolate cake.]
+-Draft evaluation criteria 
+-Draft/proposed Feedback collection method 
+-Development of Criteria Matrix
 
 
 Deliverables
@@ -69,10 +74,10 @@ Deliverables
 
 .. AUTHOR INSTRUCTIONS: What artifacts will be delivered by this project? Examples include specific documents, progress reports, feature sets, performance data, events, or presentations. Use as many (or few) bullet points as you like.
 
-- [One deliverable goes here]
-- [Another deliverable goes here]
-- Progress Report
-- End of Project Report
+-One of the above 
+-2 of three 
+-All 3
+-End of Project Report
 
 
 Key users/customers
@@ -80,10 +85,7 @@ Key users/customers
 
 .. AUTHOR INSTRUCTIONS: What types of users/people will be most affected by this project? This helps readers understand your project's target audience. Use as many (or few) bullet points as you like.
 
-- [Amet tiramisu apple pie sweet pudding.]
-- [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin.]
-- [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.] 
-- [Fruitcake carrot cake cake chocolate cake.]
+*TBD – Ideation sessions
 
 
 Key dates
