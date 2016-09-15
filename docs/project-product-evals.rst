@@ -50,12 +50,12 @@ As the City of Austin's Open Data Initiative has evolved, the current product of
 
 .. 2-3 sentences. Describe what this probject will do and how it will deliver value back to the City and the Open Data Initiative. Keep it brief here -- specific deliverables will be added in the next section.
 
--Ideation session
--Quick user profiles
--Draft of evaluation criteria
--Develop approach for feedback collection (time limited)
- -Analyze results
- -Proposed evaluation matrix
+- Ideation session
+- Quick user profiles
+- Draft of evaluation criteria
+- Develop approach for feedback collection (time limited)
+ - Analyze results
+ - Proposed evaluation matrix
 
 Success criteria
 ----------------------------------------------
@@ -64,9 +64,9 @@ Success criteria
 
 We'll know this project has been successfully completed when:
 
--Draft evaluation criteria 
--Draft/proposed Feedback collection method 
--Development of Criteria Matrix
+- Draft evaluation criteria 
+- Draft/proposed Feedback collection method 
+- Development of Criteria Matrix
 
 
 Deliverables
@@ -74,10 +74,10 @@ Deliverables
 
 .. AUTHOR INSTRUCTIONS: What artifacts will be delivered by this project? Examples include specific documents, progress reports, feature sets, performance data, events, or presentations. Use as many (or few) bullet points as you like.
 
--One of the above 
--2 of three 
--All 3
--End of Project Report
+- One of the above 
+- 2 of three 
+- All 3
+- End of Project Report
 
 
 Key users/customers
