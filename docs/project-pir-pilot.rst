@@ -54,7 +54,7 @@ Unable to determine trends and provide data sets for departments frequently aske
 
 - Understanding our audience
 - Identify the fears, misconceptions or hurdles of not sharing
-- Identufy proper processes for sharing information and data
+- Identify proper processes for sharing information and data
 - Review current PIR data available
 - Determine what department data sets to propose to Law for guidance and approval
 
