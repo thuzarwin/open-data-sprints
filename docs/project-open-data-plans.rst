@@ -39,7 +39,7 @@ Problem Statement
 
 .. 2-3 sentences. What are the basic facts of the problem?
 
-Increased transparency, public collaboration, and data-driven decision making are key goals of Austin's Open Data Initiative. In pursuit of these goals, City Departments developed open data plans and inventories during previous sprints. Currently, the format and quality of both products vary widely across departments. 
+Increased transparency, public collaboration, and data-driven decision making are key goals of Austin's Open Data Initiative. When fully realized this City-wide project will benefit both the community as well as City government to become more efficient and effective. In pursuit of these goals, City Departments developed open data plans and inventories during previous sprints. Currently, the format and quality of both products vary widely across departments. 
 
 **Why it matters:**
 
