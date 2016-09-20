@@ -2,6 +2,8 @@
 Open Data Product Evaluations
 ==============================================
 
+**This document is in (deep) beta**
+
 +------------+----------------------------+
 | Sprint 2.2 | Aug 2016 - Nov 2016        |
 +------------+----------------------------+
@@ -38,24 +40,22 @@ Problem Statement
 
 .. 2-3 sentences. What are the basic facts of the problem?
 
-The City does not currently have a core open data hosting product requirements.  We wish to gather these requirements and evaluate product solutions to see if they meet our needs.
+The City does not currently have core open data product user needs.  These are needed for determining if current and future tools have the potential and current capacity to meet City and user needs.
 
 **Why it matters:**
 
 .. 1-2 sentences. Why should we address this? What value would be gained by solving this problem now?
 
-As the City of Austin's Open Data Initiative has evolved, the current product offerings have limitations or lack features sufficient for our growing needs.
+As the City of Austin's Open Data Initiative has evolved, the current product offerings have limitations or lack features sufficient for our growing needs.  As the market matures, there are new tools and solutions that may provide value to the initiative.  By creating requirements, we can create an objective and repeatable evaluation process.
 
 **The approach:**
 
 .. 2-3 sentences. Describe what this probject will do and how it will deliver value back to the City and the Open Data Initiative. Keep it brief here -- specific deliverables will be added in the next section.
 
 - Ideation session
-- Quick user profiles
-- Draft of evaluation criteria
-- Develop approach for feedback collection (time limited)
- - Analyze results
- - Proposed evaluation matrix
+- User profiles
+- Prepare draft evaluation criteria
+- Explore ways to access and use the evaluation criteria/tool
 
 Success criteria
 ----------------------------------------------
@@ -64,9 +64,9 @@ Success criteria
 
 We'll know this project has been successfully completed when:
 
-- Draft evaluation criteria 
-- Draft/proposed Feedback collection method 
-- Development of Criteria Matrix
+- Publish evaluation criteria 
+- Publish Feedback collection method 
+- Publish guidelines for Criteria Matrix
 
 
 Deliverables
