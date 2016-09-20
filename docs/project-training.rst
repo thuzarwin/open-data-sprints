@@ -32,16 +32,16 @@ Project Scope and Charter
 
 Problem Statement
 ----------------------------------------------
-The purpose of this project sprint is to provide open data training resources needed for the various levels of knowledge and skill existing amongst city staff. 
+The City of Austin's Open Data Portal provides easy access to open data and information about the city's government to encourage the use of public information which the Open Data Liaisons and Open Data City Employees Enthusiasts have published to spark innovation, promote public collaboration, increase government transparency, and inform decision making. With the absence and lack of updated City of Austin’s training materials and resources, Open Data Liaisons and Open Data City Employees Enthusiasts are experiencing a wide range of knowledge gaps when it comes to Socarata’s software. As a result, many are experiencing road blocks as they perform their necessary tasks and are turning to other tools to help them achieve meet their goals.       
 
 
 **Why it matters:**
 
-Equipping Open Data Liaisons and Open Data City Employees Enthusiasts with the necessary tools will enable them to further meet their goals and  contribute to the city’s Open Data Initiative.
+The purpose of this project sprint is to provide open data training resources needed for the various levels of knowledge and skill existing amongst city staff. Equipping Open Data Liaisons and Open Data City Employees Enthusiasts with the necessary tools will enable and empower them to further meet their goals and contribute to the city’s Open Data Initiative.
 
 **The approach:**
 
-We will use IBM Design Thinking Field Guide as guiding posts throughout our project to define and understand the problem, observe and research users, analyze and identify users' training and knowledge needs, strategize ways to fill training need gaps, develop training materials, and validate training materials with users and stakeholders.
+We will use IBM Design Thinking Field Guide as guiding post throughout our project to define and understand the problem, observe and research users, analyze and identify users’ training and knowledge needs, strategize ways to fill training need gaps, develop training materials, and validate training materials with users and stakeholders. We will also work with Socrata's Education team to develop two virtual custom courses. 
 
 Success criteria
 ----------------------------------------------
@@ -50,7 +50,7 @@ Success criteria
 
 We'll know this project has been successfully completed when:
 
-- We have indetifined the users' experience, knowlegde gaps, and training needs and have met them by providing the essential tools
+- We have identified the users' experience, knowlegde gaps, and training needs and have met them by providing the essential tools
 	- We have updated training materials and focused on the essential courses.
 	- We have developed a training platform containing training materials that are easy accessible and user friendly to 
 	  city employees and data liaisons. draft layout and preliminary review
