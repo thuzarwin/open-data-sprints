@@ -32,60 +32,16 @@ Project Scope and Charter
 
 Problem Statement
 ----------------------------------------------
-
-.. AUTHOR INSTRUCTIONS: This section briefly describes the problem, explains why it matters, and introduces the solution. Fill in the placeholder text below.
-
-**About the problem:**
-
-.. 2-3 sentences. What are the basic facts of the problem?
-
+The purpose of this project sprint is to provide open data training resources needed for the various levels of knowledge and skill existing amongst city staff. 
 
 
 **Why it matters:**
 
-Equipping Open Data Liaisons and City Employees with the necessary tools will enable them to further meet their goals and  contribute to the city’s Open Data Initiative.
+Equipping Open Data Liaisons and Open Data City Employees Enthusiasts with the necessary tools will enable them to further meet their goals and  contribute to the city’s Open Data Initiative.
 
 **The approach:**
 
-We will use the business model canvas and IBM Design Thinking Field Guide as guiding posts throughout our project to define and understand the problem, observe and research users, analyze and identify users training needs, strategize ways to fill training need gaps, develop a prototype with users, and validate prototype with users and stakeholders.
-
-**Week 1-2: Understanding** 
-
-- Define Problem and why it matters
-- Define the user: Who are they? what do they think, feel, say and do?
-- Become the user - Determine user's experience and constraints 
-   
-Activities
-
-- Develop Personas
-
-- Mind Mapping 
-
-**Week 2, 3...: Explore:**
-
-- Conduct research
-
-Activities
-
-- User Interviews: Interview Open data city employees and Data Liaisons 
-
-- User Testing: Team members take a Socrata course and share experiences
-
-- Diary Study: Record experiences and thoughts about using Socrata Open Data Portal training in a journal.
-
-- Online Questionnaire - Survey target users to learn more about their needs, wants and desires. 
-
-- Online Custom Course Survey - Survey users to determine Socrata courses they wish to participate in. 
-   
-**Week : Analyze**
-
-**Week : Develop a Strategy**
-
-**Week : Prototype**
-
-**Week : Test**
-
-**Week : Validate**
+We will use IBM Design Thinking Field Guide as guiding posts throughout our project to define and understand the problem, observe and research users, analyze and identify users' training and knowledge needs, strategize ways to fill training need gaps, develop training materials, and validate training materials with users and stakeholders.
 
 Success criteria
 ----------------------------------------------
@@ -94,50 +50,45 @@ Success criteria
 
 We'll know this project has been successfully completed when:
 
-- Training Materials are up-to-date.
-- New Data Liaisons and city employees can easily access and upload data into the Data Portal, and find training resources for additional information without contacting support or an Open Data team member.
-- The training materials answer Data Liaisons' technical questions.
-
-{Insert hill: who, what, wow} A Data Portal Liaison __________________, _______________________________.
-
-ex. It should take no longer than 10 minutes for a Data Liaison to perform the open data portals' necessary duties such as uploading, publishing, creating a story,and so forth while using Open Data Training materials. 
-
-{Insert hill: who, what, wow } A City Employee who is or will be working with the Open Data portal _________, __________.
-
-ex. A City Employee who is or will be working with the Open Data portal  will not have to research solutions or ask other staff members for help instead they can an access training materials 24-7 using Open Data training materials and resources.
+- We have indetifined the users' experience, knowlegde gaps, and training needs and have met them by providing the essential tools
+	- We have updated training materials and focused on the essential courses.
+	- We have developed a training platform containing training materials that are easy accessible and user friendly to 
+	  city employees and data liaisons. draft layout and preliminary review
+	  
+- When we have fuffiled the following Hills:
+	- It should take no longer than 10 minutes for a Data Liaison to perform the open data portals' necessary duties
+	  such as uploading, publishing, creating a story,and so forth while using Open Data Training materials. 
+	- A City Employee who is or will be working with the Open Data portal  will not have to research solutions or ask 
+	  other staff members for help instead they can an access training materials 24-7 using Open Data training materials
+	  and resources.
 
 Deliverables
 ----------------------------------------------
 
 .. AUTHOR INSTRUCTIONS: What artifacts will be delivered by this project? Examples include specific documents, progress reports, feature sets, performance data, events, or presentations. Use as many (or few) bullet points as you like.
 
-- Provide a "one stop shop" for users to access training materials
-- Updated training materials 
+- Identify Gaps using design thinking tools, interviews, and surveys
+- Updated and teach Workshop 101 
 - Develop a "library" for Data Liaisons and City Employees who will or are working with Socrata's Open Data Portal
 - Provide Data Liaisons and city employees 2 custom courses of their choosing developed by Socrata 
-- Develop training materials for the following topics which Data Liasons have requested:
+- Develop training materials for the topics which Data Liasons have requested.
+- Outreach to Key users/customers regarding available virtual training courses offered through Socrata using various outlets such as Bloomfire.
 
-	- Dataset Update
-	- Metadata Update
-	- Perspectives 
-	- Open Performance
-	- Data Lens
-	- Glossary
 
 Key users/customers
 ----------------------------------------------
 
 .. AUTHOR INSTRUCTIONS: What types of users/people will be most affected by this project? This helps readers understand your project's target audience. Use as many (or few) bullet points as you like.
 - The primary users of the open data training materials and resources are Open Data Liaisons. Open Data Liaisons are city employees that act as the link between the data and their department.
-- We also choose to focus on City Employees who we defined as Open Data Enthuisiasts. These group of people are intrested in Open Data but do not work directly with Socrata Open Data Portal. 
+- We also chose to focus on City Employees who we defined as Open Data Enthuisiasts. This group of people are interested in Open Data but do not work directly with Socrata. 
 
 Key dates
 ----------------------------------------------
 
 .. AUTHOR INSTRUCTIONS: What dates are important? Ideas for key dates include progress report due dates, target milestone dates, end of project report due date. Use as many (or few) bullet points as you like.
 
-- September 13, 2016: Gather custom courses requests from Data Liaisons and city employees and relay back to Socrata Education Team.
-- September 16, 2016: [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin. 
+- September 13, 2016: Gather custom courses survey requests from Data Liaisons and city employees and relay back to the Socrata Education Team.
+- September , 2016: [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin. 
 - [Jan 1, 2999]: [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.] 
 - [Jan 1, 2999]: [Fruitcake carrot cake cake chocolate cake.]
 
@@ -149,8 +100,8 @@ Working documents
 
 - [Amet tiramisu apple pie sweet pudding.]
 - [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin.] 
-- [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.]
-- [Fruitcake carrot cake cake chocolate cake.]
+- [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.] survey
+- [Fruitcake carrot cake cake chocolate cake.] outreach
 
 .. raw:: html
 
