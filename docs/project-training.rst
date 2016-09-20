@@ -89,9 +89,10 @@ Key dates
 .. AUTHOR INSTRUCTIONS: What dates are important? Ideas for key dates include progress report due dates, target milestone dates, end of project report due date. Use as many (or few) bullet points as you like.
 
 - September 13, 2016: Gather custom courses survey requests from Open Data Liaisons and Open Data City Employees Enthusiasts and relay back to the Socrata Education Team.
-- September , 2016: [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin. 
-- September , 2016: [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.] 
-- September , 2016: [Fruitcake carrot cake cake chocolate cake.]
+- September 30, 2016: Meet with key users and research solutions.
+- October 15, 2016: Invite others to take Socrata's custom courses 
+- October 31, 2016: Finalize materials and test on key users
+- Novemebr 7, 2016: Teach Courses
 
 
 Working documents
@@ -103,8 +104,8 @@ Working documents
 - `Open Data Library <https://happinessk.gitbooks.io/open-data-training/content/>`_
 - `User Research: Training Materials survey <https://opendata.typeform.com/to/k6L1M2>`_
 - `User Research: Custom course survey <https://opendata.typeform.com/to/TlNHnH>`_
-- `Bloomfire custom courses and available training outreach < >`_
-- `Bloomfire training needs outreach < >`_
+- `Bloomfire custom courses and available training outreach <https://opendata.bloomfire.com/posts/1240173-socrata-educational-custom-courses-offer-training-resources-in-september>`_
+- `Bloomfire training needs outreach <https://opendata.bloomfire.com/posts/1239986-training-needs-and-materials-survey>`_
 - `User Research Results <https://airtable.com/shrQSjVaFkslO1fJk>`_
 - `Training Development <https://airtable.com/shrdizQyXtDFrfcYC>`_
 - `Glossary <https://airtable.com/shrIiZMiVMQe9VeIO>`_
