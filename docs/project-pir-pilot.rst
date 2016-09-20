@@ -68,11 +68,6 @@ We'll know this project has been successfully completed when:
 
 - Prompt access to information that is not confidential or otherwise protected 
 - Provide accountability metrics of how many proactively released datasets were previously request under public information requests
-
-Ability to view submitted request by unique id, date received, request and due data. 
-Ability to track a request
-Display Number of received request vs. reports published for total submitted to the city and by each department 
-
 - Department SPOCs are educated and empowered to direct citizens to data portal to obtain requested information
 - Increased usage of open data portal
 
@@ -83,7 +78,8 @@ Deliverables
 
 - Connect responses to public information request through policy and technology
 - Defined measurable metrics on department PIRs
-- Defined measurabel metrics for departments on the Open Data Portal
+- Defined measurable metrics for departments on the Open Data Portal
+- Standard Operating Procedure (SOP)....
 Key users/customers
 ----------------------------------------------
 
