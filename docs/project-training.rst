@@ -110,6 +110,7 @@ Working documents
 - `Training Development <https://airtable.com/shrdizQyXtDFrfcYC>`_
 - `Glossary <https://airtable.com/shrIiZMiVMQe9VeIO>`_
 - `Creative Thinking Process <https://happinessk.gitbooks.io/open-data-training/content/>`_
+- `Next Sprint Items <https://happinessk.gitbooks.io/open-data-training/content/next_sprint_items.html>`_
 
 .. raw:: html
 
