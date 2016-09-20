@@ -82,7 +82,8 @@ Deliverables
 .. AUTHOR INSTRUCTIONS: What artifacts will be delivered by this project? Examples include specific documents, progress reports, feature sets, performance data, events, or presentations. Use as many (or few) bullet points as you like.
 
 - Connect responses to public information request through policy and technology
-
+- Defined measurable metrics on department PIRs
+- Defined measurabel metrics for departments on the Open Data Portal
 Key users/customers
 ----------------------------------------------
 
