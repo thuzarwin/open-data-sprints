@@ -32,7 +32,7 @@ Project Scope and Charter
 
 Problem Statement
 ----------------------------------------------
-The City of Austin's Open Data Portal provides easy access to open data and information about the city's government to encourage the use of public information which the Open Data Liaisons and Open Data City Employees Enthusiasts have published to spark innovation, promote public collaboration, increase government transparency, and inform decision making. With the absence and lack of updated City of Austin’s training materials and resources, Open Data Liaisons and Open Data City Employees Enthusiasts are experiencing a wide range of knowledge gaps when it comes to Socarata’s software. As a result, many are experiencing road blocks as they perform their necessary tasks and are turning to other tools to help them achieve meet their goals.       
+The City of Austin's Open Data Portal provides easy access to open data and information about the city's government to encourage the use of public information which the Open Data Liaisons and Open Data City Employees Enthusiasts have published to spark innovation, promote public collaboration, increase government transparency, and inform decision making. With the absence and lack of updated City of Austin’s training materials and resources, Open Data Liaisons and Open Data City Employees Enthusiasts are experiencing a wide range of knowledge gaps when it comes to Socarata’s software. As a result, many are experiencing road blocks as they perform their necessary tasks and are turning to other tools to help them achieve meet their goals.         
 
 
 **Why it matters:**
@@ -67,12 +67,13 @@ Deliverables
 
 .. AUTHOR INSTRUCTIONS: What artifacts will be delivered by this project? Examples include specific documents, progress reports, feature sets, performance data, events, or presentations. Use as many (or few) bullet points as you like.
 
-- Identify Gaps using design thinking tools, interviews, and surveys
+- Identify Gaps using design thinking tools such as interviews,journaling and surveys
+- Relay surfacing Open Data Liaisons and Open Data City Employees Enthusiasts questions, roadblocks, and concerns presented on the Training Needs survey to Socrata for answers.
 - Updated and teach Workshop 101 
-- Develop a "library" for Data Liaisons and City Employees who will or are working with Socrata's Open Data Portal
-- Provide Data Liaisons and city employees 2 custom courses of their choosing developed by Socrata 
-- Develop training materials for the topics which Data Liasons have requested.
-- Outreach to Key users/customers regarding available virtual training courses offered through Socrata using various outlets such as Bloomfire.
+- Develop a "library" for Open Data Liaisons and Open Data City Employees Enthusiasts who will or are working with Socrata's Open Data Portal
+- Provide Open Data Liaisons and Open Data City Employees Enthusiasts 2 custom courses of their choosing developed by Socrata 
+- Develop training materials for the topics which Open Data Liaisons and Open Data City Employees Enthusiasts have requested.
+- Outreach to key users/customers regarding available virtual training courses offered through Socrata using various outlets such as Bloomfire.
 
 
 Key users/customers
@@ -87,10 +88,10 @@ Key dates
 
 .. AUTHOR INSTRUCTIONS: What dates are important? Ideas for key dates include progress report due dates, target milestone dates, end of project report due date. Use as many (or few) bullet points as you like.
 
-- September 13, 2016: Gather custom courses survey requests from Data Liaisons and city employees and relay back to the Socrata Education Team.
+- September 13, 2016: Gather custom courses survey requests from Open Data Liaisons and Open Data City Employees Enthusiasts and relay back to the Socrata Education Team.
 - September , 2016: [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin. 
-- [Jan 1, 2999]: [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.] 
-- [Jan 1, 2999]: [Fruitcake carrot cake cake chocolate cake.]
+- September , 2016: [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.] 
+- September , 2016: [Fruitcake carrot cake cake chocolate cake.]
 
 
 Working documents
@@ -98,10 +99,16 @@ Working documents
 
 .. AUTHOR INSTRUCTIONS: Where does your documentation live? Link to meeting minutes, draft docs, etc from github, google docs, or wherever here. Test the links to make sure they're readable for anyone who clicks. Use as many (or few) bullet points as you like.
 
-- [Amet tiramisu apple pie sweet pudding.]
-- [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin.] 
-- [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.] survey
-- [Fruitcake carrot cake cake chocolate cake.] outreach
+- `Trello <https://trello.com/b/mLGnONfw/open-data-training-and-resources-team/>`_
+- `Open Data Library <https://happinessk.gitbooks.io/open-data-training/content/>`_
+- `User Research: Training Materials survey <https://opendata.typeform.com/to/k6L1M2>`_
+- `User Research: Custom course survey <https://opendata.typeform.com/to/TlNHnH>`_
+- `Bloomfire custom courses and available training outreach < >`_
+- `Bloomfire training needs outreach < >`_
+- `User Research Results <https://airtable.com/shrQSjVaFkslO1fJk>`_
+- `Training Development <https://airtable.com/shrdizQyXtDFrfcYC>`_
+- `Glossary <https://airtable.com/shrIiZMiVMQe9VeIO>`_
+- `Creative Thinking Process <https://happinessk.gitbooks.io/open-data-training/content/>`_
 
 .. raw:: html
 
