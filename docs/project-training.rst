@@ -91,8 +91,7 @@ Key dates
 - September 30, 2016: Meet with key users and research solutions.
 - October 15, 2016: Invite others to take Socrata's custom courses 
 - October 31, 2016: Finalize materials and test on key users
-- Novemebr 7, 2016: Teach Courses
-
+ 
 
 Working documents
 ----------------------------------------------
