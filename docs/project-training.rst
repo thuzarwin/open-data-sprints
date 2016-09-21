@@ -68,7 +68,7 @@ Deliverables
 
 - Identify Gaps using design thinking tools such as interviews,journaling and surveys
 - Relay surfacing Open Data Liaisons and Open Data City Employees Enthusiasts questions, roadblocks, and concerns presented on the Training Needs survey to Socrata for answers.
-- Updated and teach Workshop 101 
+- An updated Workshop 101 to be used as a Socrata Introduction Exercise
 - Develop a "library" for Open Data Liaisons and Open Data City Employees Enthusiasts who will or are working with Socrata's Open Data Portal
 - Provide Open Data Liaisons and Open Data City Employees Enthusiasts 2 custom courses of their choosing developed by Socrata 
 - Develop training materials for the topics which Open Data Liaisons and Open Data City Employees Enthusiasts have requested.
