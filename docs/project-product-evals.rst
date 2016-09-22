@@ -64,9 +64,9 @@ Success criteria
 
 We'll know this project has been successfully completed when:
 
-- Publish evaluation criteria 
-- Publish Feedback collection method 
-- Publish guidelines for Criteria Matrix
+- Determine user/system needs 
+- Determine collection method 
+- Determine instructions, guidelines, and disclaimers for usage
 
 
 Deliverables
@@ -74,10 +74,9 @@ Deliverables
 
 .. AUTHOR INSTRUCTIONS: What artifacts will be delivered by this project? Examples include specific documents, progress reports, feature sets, performance data, events, or presentations. Use as many (or few) bullet points as you like.
 
-- One of the above 
-- 2 of three 
-- All 3
-- End of Project Report
+- Publish user/system needs 
+- Publish collection method 
+- Publish instructions, guidelines, and disclaimers for usage
 
 
 Key users/customers
@@ -85,7 +84,7 @@ Key users/customers
 
 .. AUTHOR INSTRUCTIONS: What types of users/people will be most affected by this project? This helps readers understand your project's target audience. Use as many (or few) bullet points as you like.
 
-*TBD – Ideation sessions
+- City staff with need to use current and potential Open Data and information management tools (specific end users determined through Ideation sessions)
 
 
 Key dates
@@ -93,10 +92,11 @@ Key dates
 
 .. AUTHOR INSTRUCTIONS: What dates are important? Ideas for key dates include progress report due dates, target milestone dates, end of project report due date. Use as many (or few) bullet points as you like.
 
-- [Jan 1, 2999]: [Amet tiramisu apple pie sweet pudding.]
-- [Jan 1, 2999]: [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin. 
-- [Jan 1, 2999]: [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.] 
-- [Jan 1, 2999]: [Fruitcake carrot cake cake chocolate cake.]
+- Aug 16, 2016: Starting line.
+- Sept 30, 2016: Mid
+- Oct 3, 2016: Ideation session 1 of 2.
+- Oct 10, 2016: Ideation session 2 of 2.
+- Nov 14, 2016: Finish line.
 
 
 Working documents
