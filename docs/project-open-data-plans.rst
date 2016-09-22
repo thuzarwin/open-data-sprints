@@ -39,13 +39,13 @@ Problem Statement
 
 .. 2-3 sentences. What are the basic facts of the problem?
 
-Increased transparency, public collaboration, and data-driven decision making are key goals of Austin's Open Data Initiative. When fully realized this City-wide project will benefit both the community as well as City government to become more efficient and effective. In pursuit of these goals, City Departments developed open data plans and inventories during previous sprints. Currently, the format and quality of both products vary widely across departments. 
+Increased transparency, public collaboration, and data-driven decision making are key goals of Austin's Open Data Initiative. When fully realized this (City-wide project)[unclear which project we're talking about] will benefit both the community as well as City government to become more efficient and effective. City Departments have developed open data plans and inventories during previous sprints, however they are not all consistent, complete, or published in central location. Furthermore, there is little documentation available about how our data assets relate to City's Key Performance Indicators. [needs tuning]
 
 **Why it matters:**
 
 .. 1-2 sentences. Why should we address this? What value would be gained by solving this problem now?
 
-At the City level, a baseline measure of quality is needed to understand the City's open data strengths and opportunities. Having this information would help create a strategy for improving the City's open data offerings, track our progress, and recognize when the strategy is working well. 
+At the City level, a baseline measure of quality is needed to understand the City's open data strengths and opportunities. Having this information would help create a strategy for improving the City's open data offerings, track our progress, and recognize when the strategy is working well. When departments have this information, they will be better equipped to discover opportunities to combine efforts and save time when reporting KPIs to the budget office.[pick a better example] From the Performance perspective, this information would help the Performance Office assess measure reliability and inform future work to automate indicator reporting processes.  
 
 **The approach:**
 
@@ -74,9 +74,8 @@ Deliverables
 - `One Open Data Plan for each Department published publically at <plans.opendata.rocks <http://plans.opendata.rocks>`_
 - Assessment status dashboard, published online for public access
 - `A list of next and later action items to inform the next project iteration <https://github.com/cityofaustin/open-data-plans/blob/master/now-next-later-items.md>`_
-- 30 Day Progress Report, due [sept date tba]
-- 60 Day Progress Report, due [oct date tba]
-- End of Project, due [nov date tba]
+- 30 Day Progress Report, due Sep 30, 2016
+- End of Project Report, due Nov 14, 2016
 
 
 Key users/customers
@@ -96,10 +95,10 @@ Key dates
 .. AUTHOR INSTRUCTIONS: What dates are important? Ideas for key dates include progress report due dates, target milestone dates, end of project report due date.
 
 - Aug 16, 2016 - Project kickoff
-- Sep ?, 2016 - 30 Day Progress Report due 
-- Oct ?, 2016 - 60 Day Progress Report due 
-- Nov ?, 2016 - End of project sprint period
-- Nov ?, 2016 - End of Project Report Due
+- Sep 30, 2016 - 30 Day Progress Report due
+- Oct ?, 2016 - Assessment Period Begins
+- Oct ?, 2016 - Assessment Period Ends
+- Nov 14, 2016 - End of project sprint period
 
 Working documents
 ----------------------------------------------
