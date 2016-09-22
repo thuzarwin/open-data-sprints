@@ -47,8 +47,6 @@ Increased transparency, public collaboration, and data-driven decision making ar
 
 At the City level, a baseline measure of quality is needed to understand the City's open data strengths and opportunities. Having this information would help create a strategy for improving the City's open data offerings, track our progress, and recognize when the strategy is working well. 
 
-At the Department level, [... insert language to address Stefan's `suggestion <https://github.com/cityofaustin/open-data-plans/issues/9>`_.]
-
 **The approach:**
 
 .. 2-3 sentences. Describe what this probject will do and how it will deliver value back to the City and the Open Data Initiative. Keep it brief here -- specific deliverables will be added in the next section.
@@ -122,23 +120,25 @@ Progress Reports
 
 .. AUTHOR INSTRUCTIONS: Start with the date for each progress report. Copy the template that's located [here] and paste it underneath the date header. Fill in that template to complete your report. Repeat for as many progress reports as needed. 
 
-Sep ?, 2016
+Sep 30, 2016
 ----------------------------------------------
 
-[progress report template coming soon]
+**What've done since Aug, 16:**
+
+- a
+- b
+- c
+
+**What we're going to do between now and the project end:**
+
+- x
+- y
+- z
 
 .. raw:: html
 
 	<hr/>
 
-Oct ?, 2016
-----------------------------------------------
-
-[progress report template coming soon]
-
-.. raw:: html
-
-	<hr/>
 
 End of Project Report
 ==============================================
