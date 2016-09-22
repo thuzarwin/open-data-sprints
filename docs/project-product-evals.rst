@@ -2,6 +2,8 @@
 Open Data Product Evaluations
 ==============================================
 
+**This document is in (deep) beta**
+
 +------------+----------------------------+
 | Sprint 2.2 | Aug 2016 - Nov 2016        |
 +------------+----------------------------+
@@ -38,19 +40,22 @@ Problem Statement
 
 .. 2-3 sentences. What are the basic facts of the problem?
 
-[Tell us about the problem here.]
+The City does not currently have core open data product user needs.  These are needed for determining if current and future tools have the potential and current capacity to meet City and user needs.
 
 **Why it matters:**
 
 .. 1-2 sentences. Why should we address this? What value would be gained by solving this problem now?
 
-[Tell us about the potential benefits of addressing this problem here.]
+As the City of Austin's Open Data Initiative has evolved, the current product offerings have limitations or lack features sufficient for our growing needs.  As the market matures, there are new tools and solutions that may provide value to the initiative.  By creating requirements, we can create an objective and repeatable evaluation process.
 
 **The approach:**
 
 .. 2-3 sentences. Describe what this probject will do and how it will deliver value back to the City and the Open Data Initiative. Keep it brief here -- specific deliverables will be added in the next section.
 
-[Tell us about what this project will attempt and how it will deliver value here.]
+- Ideation session
+- User profiles
+- Prepare draft evaluation criteria
+- Explore ways to access and use the evaluation criteria/tool
 
 Success criteria
 ----------------------------------------------
@@ -59,9 +64,9 @@ Success criteria
 
 We'll know this project has been successfully completed when:
 
-- [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin.]
-- [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.] 
-- [Fruitcake carrot cake cake chocolate cake.]
+- Publish evaluation criteria 
+- Publish Feedback collection method 
+- Publish guidelines for Criteria Matrix
 
 
 Deliverables
@@ -69,9 +74,9 @@ Deliverables
 
 .. AUTHOR INSTRUCTIONS: What artifacts will be delivered by this project? Examples include specific documents, progress reports, feature sets, performance data, events, or presentations. Use as many (or few) bullet points as you like.
 
-- [One deliverable goes here]
-- [Another deliverable goes here]
-- Progress Report
+- One of the above 
+- 2 of three 
+- All 3
 - End of Project Report
 
 
@@ -80,10 +85,7 @@ Key users/customers
 
 .. AUTHOR INSTRUCTIONS: What types of users/people will be most affected by this project? This helps readers understand your project's target audience. Use as many (or few) bullet points as you like.
 
-- [Amet tiramisu apple pie sweet pudding.]
-- [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin.]
-- [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.] 
-- [Fruitcake carrot cake cake chocolate cake.]
+*TBD – Ideation sessions
 
 
 Key dates

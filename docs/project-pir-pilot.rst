@@ -54,7 +54,7 @@ Unable to determine trends and provide data sets for departments frequently aske
 
 - Understanding our audience
 - Identify the fears, misconceptions or hurdles of not sharing
-- Identufy proper processes for sharing information and data
+- Identify proper processes for sharing information and data
 - Review current PIR data available
 - Determine what department data sets to propose to Law for guidance and approval
 
@@ -68,11 +68,6 @@ We'll know this project has been successfully completed when:
 
 - Prompt access to information that is not confidential or otherwise protected 
 - Provide accountability metrics of how many proactively released datasets were previously request under public information requests
-
-Ability to view submitted request by unique id, date received, request and due data. 
-Ability to track a request
-Display Number of received request vs. reports published for total submitted to the city and by each department 
-
 - Department SPOCs are educated and empowered to direct citizens to data portal to obtain requested information
 - Increased usage of open data portal
 
@@ -82,7 +77,9 @@ Deliverables
 .. AUTHOR INSTRUCTIONS: What artifacts will be delivered by this project? Examples include specific documents, progress reports, feature sets, performance data, events, or presentations. Use as many (or few) bullet points as you like.
 
 - Connect responses to public information request through policy and technology
-
+- Defined measurable metrics on department PIRs
+- Defined measurable metrics for departments on the Open Data Portal
+- Standard Operating Procedure (SOP)....
 Key users/customers
 ----------------------------------------------
 
