@@ -16,7 +16,7 @@ Team Contacts
 
 **Project coordinator:**
 
-Hailey Pate - hailey.pate@austintexas.gov
+monkey's uncle - hailey.pate@austintexas.gov
 
 **Team members:**
 
@@ -124,7 +124,7 @@ Sep 30, 2016
 
 **What've done since Aug, 16:**
 
-- a
+- bullet item here
 - b
 - c
 
