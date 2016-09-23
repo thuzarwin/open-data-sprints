@@ -1,4 +1,4 @@
-==============================================
+﻿==============================================
 Data Portal Categories
 ==============================================
 
@@ -39,7 +39,9 @@ Problem Statement
 
 .. 2-3 sentences. What are the basic facts of the problem?
 
-[Tell us about the problem here.]
+[The existing categories do not represent accurate grouping of datasets on the City of Austin Open Data Portal.
+Customers are unable to browse for similar datasets organized by specific interest, which hinders the ability to discover unknown datasets.
+There are no guidelines for open data publishers to determine the best categories for classifying datasets.]
 
 **Why it matters:**
 
