@@ -47,7 +47,9 @@ There are no guidelines for open data publishers to determine the best categorie
 
 .. 1-2 sentences. Why should we address this? What value would be gained by solving this problem now?
 
-[Tell us about the potential benefits of addressing this problem here.]
+[Better category options will improve organized grouping of similar datasets to increase ease of use and comprehension.
+Customers will be able to browse datasets by categories to improve discoverability.
+Better consistency and guidelines will make it easier for publishing data.]
 
 **The approach:**
 
