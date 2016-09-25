@@ -16,7 +16,7 @@ Team Contacts
 
 **Project coordinator:**
 
-monkey's uncle - hailey.pate@austintexas.gov
+Hailey Pate - hailey.pate@austintexas.gov
 
 **Team members:**
 
@@ -39,13 +39,13 @@ Problem Statement
 
 .. 2-3 sentences. What are the basic facts of the problem?
 
-Increased transparency, public collaboration, and data-driven decision making are key goals of Austin's Open Data Initiative. When fully realized this (City-wide project)[unclear which project we're talking about] will benefit both the community as well as City government to become more efficient and effective. City Departments have developed open data plans and inventories during previous sprints, however they are not all consistent, complete, or published in central location. Furthermore, there is little documentation available about how our data assets relate to City's Key Performance Indicators. [needs tuning]
+Increased transparency, public collaboration, and data-driven decision making are key goals of Austin's Open Data Initiative. As part of the initiative's effort to pursue these goals, City Departments  developed open data plans and inventories last year -- however, the documents were often inconsistent, incomplete, or published in different locations. Furthermore, the plans do not include information about how each department's data assets relate to Austin's Key Performance Indicators. More information about department-level data is needed to understand the City's open data strengths and opportunities.
 
 **Why it matters:**
 
 .. 1-2 sentences. Why should we address this? What value would be gained by solving this problem now?
 
-At the City level, a baseline measure of quality is needed to understand the City's open data strengths and opportunities. Having this information would help create a strategy for improving the City's open data offerings, track our progress, and recognize when the strategy is working well. When departments have this information, they will be better equipped to discover opportunities to combine efforts and save time when reporting KPIs to the budget office.[pick a better example] From the Performance perspective, this information would help the Performance Office assess measure reliability and inform future work to automate indicator reporting processes.  
+When we have more consistency across plan documents, information about each department's open data resources will be easier to discover and use. When departments have this information, they can work more  strategically to improve processes for maintaining performance data. From the perspective of city performance, having more organized information would help the Performance Office assess measure reliability and inform future work to improve how indicators are reported.
 
 **The approach:**
 
@@ -71,7 +71,7 @@ Deliverables
 
 - Template that shows how to format and organize the content of an Open Data Plan
 - Worksheet template to be used by departments to complete the KPI Data Assessment
-- `One Open Data Plan for each Department published publically at <plans.opendata.rocks <http://plans.opendata.rocks>`_
+- One Open Data Plan for each Department published publically at `plans.opendata.rocks <http://plans.opendata.rocks>`_
 - Assessment status dashboard, published online for public access
 - `A list of next and later action items to inform the next project iteration <https://github.com/cityofaustin/open-data-plans/blob/master/now-next-later-items.md>`_
 - 30 Day Progress Report, due Sep 30, 2016
@@ -144,4 +144,4 @@ End of Project Report
 
 .. AUTHOR INSTRUCTIONS: Copy the final report template that's located [here] and paste it underneath this header.  Fill in that template to complete your report. High five, your documentation is complete! Many thanks!
 
-[end of project report template coming soon]
+[coming soon]
