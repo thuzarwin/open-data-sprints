@@ -32,16 +32,17 @@ Project Scope and Charter
 
 Problem Statement
 ----------------------------------------------
-The City of Austin's Open Data Portal provides easy access to open data and information about the city's government to encourage the use of public information which the Open Data Liaisons and Open Data City Employees Enthusiasts have published to spark innovation, promote public collaboration, increase government transparency, and inform decision making. With the absence and lack of updated City of Austin’s training materials and resources, Open Data Liaisons and Open Data City Employees Enthusiasts are experiencing a wide range of knowledge gaps when it comes to Socarata’s software. As a result, many are experiencing road blocks as they perform their necessary tasks and are turning to other tools to help them achieve meet their goals.         
+The City of Austin's Open Data Portal provides easy access to open data and information about the city's government to encourage the use of public information which the Open Data Liaisons and Open Data City Employees Enthusiasts have published to spark innovation, promote public collaboration, increase government transparency, and inform decision making. With the absence and lack of updated City of Austin’s training materials and resources, Open Data Liaisons and Open Data City Employees Enthusiasts are experiencing a wide range of knowledge gaps when it comes to Socarata’s software. As a result, many are experiencing road blocks as they perform their necessary tasks and are turning to other tools to help them achieve their goals.         
 
 
 **Why it matters:**
 
 The purpose of this project sprint is to provide open data training resources needed for the various levels of knowledge and skill existing amongst city staff. Equipping Open Data Liaisons and Open Data City Employees Enthusiasts with the necessary tools will enable and empower them to further meet their goals and contribute to the city’s Open Data Initiative.
+when {this  problem happens } .....decreasing the learning curve when turnover happens, training expense .
 
 **The approach:**
 
-We will use IBM Design Thinking Field Guide as guiding post throughout our project to define and understand the problem, observe and research users, analyze and identify users’ training and knowledge needs, strategize ways to fill training need gaps, develop training materials, and validate training materials with users and stakeholders. We will also work with Socrata's Education team to develop two virtual custom courses. 
+We will use IBM Design Thinking Field Guide (link) as guiding post throughout our project to define and understand the problem, observe and research users, analyze and identify users’ training and knowledge needs, strategize ways to fill training need gaps, develop training materials, and validate training materials with users and stakeholders. We will also work with Socrata's Education team to develop two virtual custom courses. 
 
 Success criteria
 ----------------------------------------------
@@ -50,26 +51,26 @@ Success criteria
 
 We'll know this project has been successfully completed when:
 
-- We have identified the users' experience, knowlegde gaps, and training needs and have met them by providing the essential tools
+- We have identified the users' experience, knowlegde gaps, and training needs and have met them by providing the essential tools:
 	- We have updated training materials and focused on the essential courses.
 	- We have developed a training platform containing training materials that are easy accessible and user friendly to 
-	  Open Data City Employees Enthusiasts and Open Data Liaison. draft layout and preliminary review
+	  Open Data City Employees Enthusiasts and Open Data Liaison. 
 	  
-- When we have fulfilled the following Hills:
+	  
+- When we have fulfilled the following:
 	- It should take no longer than 10 minutes for a Open Data Liaison to perform the open data portals' necessary duties
 	  such as uploading, publishing, creating a story,and so forth while using Open Data Training materials. 
-	- An Open Data City Employees Enthusiasts who is or will be working with the Open Data portal  will not have to research solutions or ask other staff members for help instead they can an access training materials 24-7 using Open Data training materials
-	  and resources.
+	- An Open Data City Employees Enthusiasts who is or will be working with the Open Data portal  will not have to research solutions or ask other staff members for help instead they can an access training materials 24-7 using Open Data training materials and resources.
 
 Deliverables
 ----------------------------------------------
 
 .. AUTHOR INSTRUCTIONS: What artifacts will be delivered by this project? Examples include specific documents, progress reports, feature sets, performance data, events, or presentations. Use as many (or few) bullet points as you like.
 
-- Identify Gaps using design thinking tools such as interviews,journaling and surveys
+- Identify Gaps using design thinking tools such as interviews,journaling and surveys (link)
 - Relay surfacing Open Data Liaisons and Open Data City Employees Enthusiasts questions, roadblocks, and concerns presented on the Training Needs survey to Socrata for answers.
-- An updated Workshop 101 to be used as a Socrata Introduction Exercise
-- Develop a "library" for Open Data Liaisons and Open Data City Employees Enthusiasts who will or are working with Socrata's Open Data Portal
+- An updated online Workshop 101 to be used as a Socrata Introduction Exercise
+- Develop a library for Open Data Liaisons and Open Data City Employees Enthusiasts who will or are working with Socrata's Open Data Portal
 - Provide Open Data Liaisons and Open Data City Employees Enthusiasts 2 custom courses of their choosing developed by Socrata 
 - Develop training materials for the topics which Open Data Liaisons and Open Data City Employees Enthusiasts have requested.
 - Outreach to key users/customers regarding available virtual training courses offered through Socrata using various outlets such as Bloomfire.
@@ -91,6 +92,7 @@ Key dates
 - September 30, 2016: Meet with key users and research solutions.
 - October 15, 2016: Invite others to take Socrata's custom courses 
 - October 31, 2016: Finalize materials and test on key users
+- Nov 14, 2016: Finish line
  
 
 Working documents

@@ -1,5 +1,5 @@
 ==============================================
-Open Data Plans Reboot
+KPI Data Assessment
 ==============================================
 
 +------------+----------------------------+
@@ -16,7 +16,7 @@ Team Contacts
 
 **Project coordinator:**
 
-monkey's uncle - hailey.pate@austintexas.gov
+Hailey Pate - hailey.pate@austintexas.gov
 
 **Team members:**
 
@@ -39,19 +39,19 @@ Problem Statement
 
 .. 2-3 sentences. What are the basic facts of the problem?
 
-Increased transparency, public collaboration, and data-driven decision making are key goals of Austin's Open Data Initiative. When fully realized this (City-wide project)[unclear which project we're talking about] will benefit both the community as well as City government to become more efficient and effective. City Departments have developed open data plans and inventories during previous sprints, however they are not all consistent, complete, or published in central location. Furthermore, there is little documentation available about how our data assets relate to City's Key Performance Indicators. [needs tuning]
+Increased transparency, public collaboration, and data-driven decision making are key goals of Austin's Open Data Initiative. As part of the initiative's effort to pursue these goals, City Departments  developed open data inventories last year -- however, the information was often inconsistent, incomplete, or hard to understand. Furthermore, the inventory did not include information about how a department's data assets relate (if at all) to Austin's Key Performance Indicators. More information about department-level data is needed to understand the City's open data strengths and opportunities.
 
 **Why it matters:**
 
 .. 1-2 sentences. Why should we address this? What value would be gained by solving this problem now?
 
-At the City level, a baseline measure of quality is needed to understand the City's open data strengths and opportunities. Having this information would help create a strategy for improving the City's open data offerings, track our progress, and recognize when the strategy is working well. When departments have this information, they will be better equipped to discover opportunities to combine efforts and save time when reporting KPIs to the budget office.[pick a better example] From the Performance perspective, this information would help the Performance Office assess measure reliability and inform future work to automate indicator reporting processes.  
+When we have more consistent inventories, information about each department's open data resources will be easier to discover and use. When departments have this information, they can work more strategically to  maintain their performance data. From the perspective of city performance, having more organized information about data sources would help the Performance Office assess measure reliability and improve how indicators are reported.
 
 **The approach:**
 
 .. 2-3 sentences. Describe what this probject will do and how it will deliver value back to the City and the Open Data Initiative. Keep it brief here -- specific deliverables will be added in the next section.
 
-This project involves three main activities. First, we will generate a minimal-style open data plan for each department which will become the foundation for enhanced plan documents in future sprints. Second, we will use a selection of the City's existing performance indicators to create deliverables for a new data assessment project. Third, we will deploy the assessment project and create a public website to display our progress.
+This project involves three main activities. First, we will develop a working list of questions we'd like to be able to answer about each department's open data assets. Second, we will design and deploy a survey to collect the information needed to answer those questions. Third, we will publish our progress and findings publicly so anyone interested can access the results and create their own analyses.
 
 Success criteria
 ----------------------------------------------
@@ -60,8 +60,8 @@ Success criteria
 
 We'll know this project has been successfully completed when:
 
-- We have published a basic Open Data Plan document for each City Department at plans.opendata.rocks
 - We can measure how many of the City's Key Performance Indicators can be sourced from raw, structured data
+- We have published our findings publicly and in dataset format 
 - We have completed our project deliverables, including progress and final reports
 
 Deliverables
@@ -69,9 +69,7 @@ Deliverables
 
 .. AUTHOR INSTRUCTIONS: What artifacts will be delivered by this project? Examples include specific documents, progress reports, feature sets, performance data, events, or presentations.
 
-- Template that shows how to format and organize the content of an Open Data Plan
-- Worksheet template to be used by departments to complete the KPI Data Assessment
-- `One Open Data Plan for each Department published publically at <plans.opendata.rocks <http://plans.opendata.rocks>`_
+- Survey to be used by departments to complete the KPI Data Assessment
 - Assessment status dashboard, published online for public access
 - `A list of next and later action items to inform the next project iteration <https://github.com/cityofaustin/open-data-plans/blob/master/now-next-later-items.md>`_
 - 30 Day Progress Report, due Sep 30, 2016
@@ -95,6 +93,7 @@ Key dates
 .. AUTHOR INSTRUCTIONS: What dates are important? Ideas for key dates include progress report due dates, target milestone dates, end of project report due date.
 
 - Aug 16, 2016 - Project kickoff
+- Sep 23, 2016 - Project scope amended
 - Sep 30, 2016 - 30 Day Progress Report due
 - Oct ?, 2016 - Assessment Period Begins
 - Oct ?, 2016 - Assessment Period Ends
@@ -109,6 +108,24 @@ Working documents
 - `List of things to work on next and later <https://github.com/cityofaustin/open-data-plans/blob/master/now-next-later-items.md>`_
 - `Project issues and to do items on GitHub <https://github.com/cityofaustin/open-data-plans/issues>`_
 - `Online catalog of Open Data Plans <http://plans.opendata.rocks>`_
+
+.. raw:: html
+
+	<hr/>
+
+Scope Amendments
+----------------------------------------------
+
+**Sep 23, 2016:**  
+
+The scope is being modified to focus more on the KPI Data Assessment activity. Integration of the assessment results into the open data plans documents will be postponed to a later sprint, likely as part of a broader open data plans improvement project. 
+
+Summary of changes:
+
+- modified problem statement to exclude plan-focused activities
+- in success criteria, replaced publishing open data plans with publishing the KPI data assessment findings
+- removed plan-related items from deliverables
+- change project title from Open Data Plans Reboot to KPI Data Assessment
 
 .. raw:: html
 
@@ -144,4 +161,4 @@ End of Project Report
 
 .. AUTHOR INSTRUCTIONS: Copy the final report template that's located [here] and paste it underneath this header.  Fill in that template to complete your report. High five, your documentation is complete! Many thanks!
 
-[end of project report template coming soon]
+[coming soon]
