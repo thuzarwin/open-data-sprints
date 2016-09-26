@@ -1,5 +1,5 @@
 ==============================================
-Open Data Plans Reboot
+KPI Data Assessment
 ==============================================
 
 +------------+----------------------------+
@@ -125,6 +125,7 @@ Summary of changes:
 - modified problem statement to exclude plan-focused activities
 - in success criteria, replaced publishing open data plans with publishing the KPI data assessment findings
 - removed plan-related items from deliverables
+- change project title from Open Data Plans Reboot to KPI Data Assessment
 
 .. raw:: html
 
