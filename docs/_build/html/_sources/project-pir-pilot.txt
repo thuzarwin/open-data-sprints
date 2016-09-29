@@ -36,27 +36,19 @@ Problem Statement
 
 .. 2-3 sentences. What are the basic facts of the problem?
 
-Unable to determine trends and provide data sets for departments frequently asked request.  Citizens not accessing open data portal to retrieve answers to information request.  
+The City of Austin Open Data Liaisons and staff who work with formal public information requests (PIRs) should connect the demand expressed in PIRs to the proactive disclosure of open data. However, the degree to which the open data portal is currently and could potentially be utilized to satisfy public information requests (PIRs) is currently unknown. Furthermore, data from the PIR system to 1) describe trends, 2) uncover gaps and overlaps with the open data portal, and 3) help the open data team recommend effective and efficient provisioning is not accessible.
 
 **Why it matters:**
 
 .. 1-2 sentences. Why should we address this? What value would be gained by solving this problem now?
 
-- Providing public information in an open format upon request will reduce the repetitive request and provide potentially greater impact at little to no extra cost
-- Increased transparency
-- Increase consistency of responses
-- Reduction in PIR submitted by requesters
-- Reduction in staff time currently committed to PIR processes
+The increased supply of proactively published government data and information on the open data portal should decrease the need for formal PIRs and the accompanying processes. This should reduce the considerable time and cost committed by the City, while improving the customer experience in terms of accessibility, transparency, and self-service.
 
 **The approach:**
 
-.. 2-3 sentences. Describe what this probject will do and how it will deliver value back to the City and the Open Data Initiative. Keep it brief here -- specific deliverables will be added in the next section.
+.. 2-3 sentences. Describe what this project will do and how it will deliver value back to the City and the Open Data Initiative. Keep it brief here -- specific deliverables will be added in the next section.
 
-- Understanding our audience
-- Identify the fears, misconceptions or hurdles of not sharing
-- Identify proper processes for sharing information and data
-- Review current PIR data available
-- Determine what department data sets to propose to Law for guidance and approval
+In order to determine the return on effort for this initiative, we plan to: 1. Understand the audiences (internal and external)2. Identify current obstacles (internal and external)3. Analyze current PIR data to prioritize proactive discloser
 
 
 Success criteria
@@ -64,22 +56,15 @@ Success criteria
 
 .. AUTHOR INSTRUCTIONS: When will we know we've successfully completed this project? Add brief, specific criteria here. Mention specific deliverables if needed. Use as many (or few) bullet points as you like.
 
-We'll know this project has been successfully completed when:
-
-- Prompt access to information that is not confidential or otherwise protected 
-- Provide accountability metrics of how many proactively released datasets were previously request under public information requests
-- Department SPOCs are educated and empowered to direct citizens to data portal to obtain requested information
-- Increased usage of open data portal
+We’ll know this project has been successfully completed when we have:- Determined new data sets to publish to the open data portal in order to reduce PIRs - Determined current data sets on the open data portal to promote to and educate our audiences about in order to reduce PIRs- Define process, metrics, and guidelines for Departments to use to identify data sets that should be proactively disclosed and promoted on the open data portal.
 
 Deliverables
 ----------------------------------------------
 
 .. AUTHOR INSTRUCTIONS: What artifacts will be delivered by this project? Examples include specific documents, progress reports, feature sets, performance data, events, or presentations. Use as many (or few) bullet points as you like.
 
-- Connect responses to public information request through policy and technology
-- Defined measurable metrics on department PIRs
-- Defined measurable metrics for departments on the Open Data Portal
-- Standard Operating Procedure (SOP)....
+- Release findings of this pilot, including recommended data sets for publication and/or promotion on the open data portal.- Publish process, metrics, and guidelines for Departments to use to identify data sets that should be proactively disclosed and promoted on the open data portal.
+
 Key users/customers
 ----------------------------------------------
 
@@ -89,6 +74,7 @@ Key users/customers
 - Department PIR SPOC
 - Open Data Liaisons
 - Open government and transparency advocates
+- People wanting access to government information
 
 
 
@@ -97,9 +83,9 @@ Key dates
 
 .. AUTHOR INSTRUCTIONS: What dates are important? Ideas for key dates include progress report due dates, target milestone dates, end of project report due date. Use as many (or few) bullet points as you like.
 
-- [September 30, 2016]: [TBD]
-- [October 28, 2016]: [TBD] 
-- [November 2016]: [TBD] 
+- August 16, 2016: Sprint Kickoff
+- September 30, 2016: Mid Sprint Progress Report
+- November 14, 2016: End of Sprint Summary Report
 
 
 
@@ -110,7 +96,7 @@ Working documents
 
 - `New York City Open Records Beta Site <https://a860-openrecords.nyc.gov/>`_
 - `Port of Seattle Police Open Data Record Site <http://www.portofseattlepolice.nextrequest.com/>`_
-- `Texas Attorney General Public Inforamtion Handbook <https://www.texasattorneygeneral.gov/files/og/publicinfo_hb.pdf/>`_
+- `Texas Attorney General Public Information Handbook <https://www.texasattorneygeneral.gov/files/og/publicinfo_hb.pdf/>`_
 
 .. raw:: html
 
