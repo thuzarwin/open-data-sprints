@@ -54,13 +54,7 @@ We'll know this project has been successfully completed when:
 - We have identified the users' experience, knowledge gaps, and training needs and have met them by providing the essential tools:
 	- We have updated training materials and focused on the essential courses.
 	- We have developed a training platform containing training materials that are easy accessible and user friendly to
-	  Open Data City Employees Enthusiasts and Open Data Liaison.
-
-
-- When we have fulfilled the following:
-	- It should take no longer than 10 minutes for a Open Data Liaison to perform the open data portals' necessary duties
-	  such as uploading, publishing, creating a story,and so forth while using Open Data Training materials.
-	- An Open Data City Employees Enthusiasts who is or will be working with the Open Data portal  will not have to research solutions or ask other staff members for help instead they can an access training materials 24-7 using Open Data training materials and resources.
+	  Open Data City Employees Enthusiasts, Open Data Liaisons and public users.
 
 Deliverables
 ----------------------------------------------
