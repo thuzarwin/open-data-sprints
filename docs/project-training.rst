@@ -42,7 +42,7 @@ The purpose of this project sprint is to update training materials and provide o
 
 **The approach:**
 
-We will use IBM Design Thinking Field Guide as guiding post throughout our project to define and understand the problem, observe and research users, analyze and identify users’ training and knowledge needs, strategize ways to fill training need gaps, develop training materials, and validate training materials with users and stakeholders. We will also work with Socrata's Education team to develop two virtual custom courses.
+We will use `IBM Design Thinking Field Guide <http://www.ibm.com/design/thinking/>`_ as guiding post throughout our project to define and understand the problem, observe and research users, analyze and identify users’ training and knowledge needs, strategize ways to fill training need gaps, develop training materials, and validate training materials with users and stakeholders. We will also work with Socrata's Education team to develop two virtual custom courses.
 
 Success criteria
 ----------------------------------------------
