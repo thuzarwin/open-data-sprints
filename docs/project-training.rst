@@ -76,7 +76,7 @@ Key users/customers
 ----------------------------------------------
 
 .. AUTHOR INSTRUCTIONS: What types of users/people will be most affected by this project? This helps readers understand your project's target audience. Use as many (or few) bullet points as you like.
-- The users of the open data training materials and resources are Open Data Liaisons and public users. Open Data Liaisons are city employees that act as the link between the data and their department. While public users are those who are curious about open data or those who use the data to collaborate to spark innovation within their communities.
+- The users of the open data training materials and resources are Open Data Liaisons and public users. Open Data Liaisons are city employees that act as the link between the data and their department. While public users are those who are curious about open data or use the data to collaborate unleashing sparks of innovation within their communities.
 
 - We also chose to focus on City Employees who we defined as Open Data City Employees Enthusiasts. This group of people will work with or are working directly with Socrata.
 
