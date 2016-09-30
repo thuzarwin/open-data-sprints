@@ -8,7 +8,7 @@ Public Information Request (PIR) Pilot
 
 .. AUTHOR INSTRUCTIONS: Replace the [placeholder text] with the name of your project.
 
-The purpose of this document is to describe a project facilitated by the City of Austin's Open Data Initiative. It contains key contact information, the project scope and charter -- which identifies the problem statement, key partners, documents, and success criteria -- and links to working documents. Throughout the project, progress and final reports will be appended to provide a comprehensive account of the work and value delivered. 
+The purpose of this document is to describe a project facilitated by the City of Austin's Open Data Initiative. It contains key contact information, the project scope and charter -- which identifies the problem statement, key partners, documents, and success criteria -- and links to working documents. Throughout the project, progress and final reports will be appended to provide a comprehensive account of the work and value delivered.
 
 
 Team Contacts
@@ -16,7 +16,7 @@ Team Contacts
 
 **Project coordinators:**
 
-Anne Whitlock - anne.whitlock@austintexas.gov 
+Anne Whitlock - anne.whitlock@austintexas.gov
 
 .. raw:: html
 
@@ -47,11 +47,11 @@ Unable to determine trends and provide data sets for departments frequently aske
 - Increase consistency of responses
 - Reduction in PIR submitted by requesters
 - Reduction in staff time currently committed to PIR processes
-- Provides the data/facts for imporving PIR Process  (types of repeatable requests, determine the highest value)
+- Provides the data/facts for improving PIR Process  (types of repeatable requests, determine the highest value)
 
 **The approach:**
 
-.. 2-3 sentences. Describe what this probject will do and how it will deliver value back to the City and the Open Data Initiative. Keep it brief here -- specific deliverables will be added in the next section.
+.. 2-3 sentences. Describe what this project will do and how it will deliver value back to the City and the Open Data Initiative. Keep it brief here -- specific deliverables will be added in the next section.
 
 - Understanding our audience
 - Identify the fears, misconceptions or hurdles of not sharing
@@ -69,7 +69,7 @@ Success criteria
 
 We'll know this project has been successfully completed when:
 
-- Prompt access to information that is not confidential or otherwise protected 
+- Prompt access to information that is not confidential or otherwise protected
 - Provide accountability metrics of how many proactively released datasets were previously request under public information requests
 - Department SPOCs are educated and empowered to direct citizens to data portal to obtain requested information
 - Increased usage of open data portal
@@ -102,8 +102,8 @@ Key dates
 .. AUTHOR INSTRUCTIONS: What dates are important? Ideas for key dates include progress report due dates, target milestone dates, end of project report due date. Use as many (or few) bullet points as you like.
 
 - [September 30, 2016]: [TBD]
-- [October 28, 2016]: [TBD] 
-- [November 2016]: [TBD] 
+- [October 28, 2016]: [TBD]
+- [November 2016]: [TBD]
 
 
 
@@ -123,7 +123,7 @@ Working documents
 Progress Reports
 ==============================================
 
-.. AUTHOR INSTRUCTIONS: Start with the date for each progress report. Copy the template that's located [here] and paste it underneath the date header. Fill in that template to complete your report. Repeat for as many progress reports as needed. 
+.. AUTHOR INSTRUCTIONS: Start with the date for each progress report. Copy the template that's located [here] and paste it underneath the date header. Fill in that template to complete your report. Repeat for as many progress reports as needed.
 
 Sep ?, 2016
 ----------------------------------------------
