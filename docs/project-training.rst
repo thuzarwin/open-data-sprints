@@ -64,7 +64,7 @@ Deliverables
 - Identify Gaps using design thinking tools such as interviews, journaling and surveys
 - Relay surfacing Open Data Liaisons and Open Data City Employees Enthusiasts questions, roadblocks, and concerns presented on the Training Needs survey to Socrata for answers.
 - An updated online Workshop 101 to be used as a Socrata Introduction Exercise
-- Create a Bloomfire User Group and Slack Channel to help diminish concerns and roadblocks
+- Invite users to join Bloomfire User Group and Slack Channel to help diminish concerns and roadblocks
 - Determine our next steps
 - Update training materials located on the `wiki site <https://atxdataportal.wikispaces.com/>`_
 - Develop a library for Open Data Liaisons, Open Data City Employees Enthusiasts and public users who will or are working with Socrata's Open Data Portal
