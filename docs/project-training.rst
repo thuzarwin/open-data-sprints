@@ -37,7 +37,7 @@ The City of Austin's Open Data Portal provides easy access to open data and info
 
 **Why it matters:**
 
-The purpose of this project sprint is to update public users training materials and provide open data training resources needed for the various levels of knowledge and skill existing amongst city staff. Equipping Open Data Liaisons and Open Data City Employees Enthusiasts with the necessary tools will enable and empower them to further meet their goals and contribute to the city’s Open Data Initiative.
+The purpose of this project sprint is to update training materials and provide open data training resources needed for the various levels of knowledge and skill existing amongst city staff and public users. Equipping Open Data Liaisons, Open Data City Employees Enthusiasts and public users with the necessary tools will enable and empower them to further meet their goals and contribute to the city’s Open Data Initiative.
 
 
 **The approach:**
