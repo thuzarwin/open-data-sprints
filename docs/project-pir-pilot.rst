@@ -69,9 +69,8 @@ We’ll know this project has been successfully completed when we have:
 ----------------------------------------------
 
 .. AUTHOR INSTRUCTIONS: What artifacts will be delivered by this project? Examples include specific documents, progress reports, feature sets, performance data, events, or presentations. Use as many (or few) bullet points as you like.
-
-•	Release findings of this pilot, including recommended data sets for publication and/or promotion on the open data portal.
-•	Publish process, metrics, and guidelines for Departments to use to identify data sets that should be proactively disclosed and promoted on the open data portal.
+- Release findings of this pilot, including recommended data sets for publication and/or promotion on the open data portal.
+- Publish process, metrics, and guidelines for Departments to use to identify data sets that should be proactively disclosed and promoted on the open data portal.
 
 Key users/customers
 ----------------------------------------------
