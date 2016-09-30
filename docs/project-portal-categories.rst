@@ -64,9 +64,13 @@ Success criteria
 
 We'll know this project has been successfully completed when:
 
-- Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin.
-- Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels. 
-- Fruitcake carrot cake cake chocolate cake.
+- The categories of the current open data portal have been revised to create better grouping.
+- Customers are able to search and view more consistent datasets by categories.
+- Improve access to open data and information about your city government.
+- Updating the taxonomy of the data categories. Needs more discussion. 
+- Develop a recommended category list. 
+- Consistent process of category assignment.
+- Reduce the need for search words by comparing monthly Socrata analytic.
 
 
 Deliverables
@@ -74,10 +78,11 @@ Deliverables
 
 .. AUTHOR INSTRUCTIONS: What artifacts will be delivered by this project? Examples include specific documents, progress reports, feature sets, performance data, events, or presentations. Use as many (or few) bullet points as you like.
 
-- [One deliverable goes here]
-- [Another deliverable goes here]
-- Progress Report
-- End of Project Report
+- Baseline of analytics.
+- Creation of Guidelines for both categories and tags.
+- An updated list of Categories that include better definitions.
+- An updated list of tags that include better definitions.
+- Output from Card Sort Exercise.
 
 
 Key users/customers
@@ -85,10 +90,16 @@ Key users/customers
 
 .. AUTHOR INSTRUCTIONS: What types of users/people will be most affected by this project? This helps readers understand your project's target audience. Use as many (or few) bullet points as you like.
 
-- [Amet tiramisu apple pie sweet pudding.]
-- [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin.]
-- [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.] 
-- [Fruitcake carrot cake cake chocolate cake.]
+- Government Employee/Open Data (Owners)Liaison
+- Business or Data Analyst.
+- Researcher.
+- Data Publisher.
+- Data Consumer.
+- Developers and Designers.
+- Civic Advocate.
+- Citizens.
+- Businesses.
+- Educational Institutes.
 
 
 Key dates
@@ -107,10 +118,12 @@ Working documents
 
 .. AUTHOR INSTRUCTIONS: Where does your documentation live? Link to meeting minutes, draft docs, etc from github, google docs, or wherever here. Test the links to make sure they're readable for anyone who clicks. Use as many (or few) bullet points as you like.
 
-- [Amet tiramisu apple pie sweet pudding.]
-- [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin.] 
-- [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.]
-- [Fruitcake carrot cake cake chocolate cake.]
+- Sunlight Foundation.
+- Sorata analytics.
+- www.optimalworkshop.com/optimalsort.
+- www.userzoom.com/card-sorting.
+- www.usabilitytools.com/us-suites.
+- colaborate with Open Austin
 
 .. raw:: html
 
