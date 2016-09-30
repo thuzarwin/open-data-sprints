@@ -61,14 +61,16 @@ Deliverables
 
 .. AUTHOR INSTRUCTIONS: What artifacts will be delivered by this project? Examples include specific documents, progress reports, feature sets, performance data, events, or presentations. Use as many (or few) bullet points as you like.
 
-- Identify Gaps using design thinking tools such as interviews,journaling and surveys (link)
+- Identify Gaps using design thinking tools such as interviews, journaling and surveys
 - Relay surfacing Open Data Liaisons and Open Data City Employees Enthusiasts questions, roadblocks, and concerns presented on the Training Needs survey to Socrata for answers.
 - An updated online Workshop 101 to be used as a Socrata Introduction Exercise
-- Develop a library for Open Data Liaisons and Open Data City Employees Enthusiasts who will or are working with Socrata's Open Data Portal
+- Create a Bloomfire User Group and Slack Channel to help diminish concerns and roadblocks
+- Determine our next steps
+- Update training materials located on the `wiki site <https://atxdataportal.wikispaces.com/>`_
+- Develop a library for Open Data Liaisons, Open Data City Employees Enthusiasts and public users who will or are working with Socrata's Open Data Portal
 - Provide Open Data Liaisons and Open Data City Employees Enthusiasts 2 custom courses of their choosing developed by Socrata
 - Develop training materials for the topics which Open Data Liaisons and Open Data City Employees Enthusiasts have requested.
-- Outreach to key users/customers regarding available virtual training courses offered through Socrata using various outlets such as Bloomfire.
-
+- Outreach to key Open Data Liaisons and Open Data City Employees Enthusiasts regarding available virtual training courses offered through Socrata using various outlets such as Bloomfire.
 
 Key users/customers
 ----------------------------------------------
