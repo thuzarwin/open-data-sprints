@@ -98,7 +98,8 @@ Working documents
 
 - `Trello <https://trello.com/b/mLGnONfw/open-data-training-and-resources-team/>`_
 -  Open Data Library - TBD
-- `User Research: Training Materials survey <https://opendata.typeform.com/to/k6L1M2>`_
+- `IBM Design Thinking Field Guide <http://www.ibm.com/design/thinking/>`_
+- `User Research: Training materials survey <https://opendata.typeform.com/to/k6L1M2>`_
 - `User Research: Custom course survey <https://opendata.typeform.com/to/TlNHnH>`_
 - `Bloomfire custom courses and available training outreach <https://opendata.bloomfire.com/posts/1240173-socrata-educational-custom-courses-offer-training-resources-in-september>`_
 - `Bloomfire training needs outreach <https://opendata.bloomfire.com/posts/1239986-training-needs-and-materials-survey>`_
