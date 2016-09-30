@@ -47,11 +47,11 @@ Unable to determine trends and provide data sets for departments frequently aske
 - Increase consistency of responses
 - Reduction in PIR submitted by requesters
 - Reduction in staff time currently committed to PIR processes
-- Provides the data/facts for imporving PIR Process  (types of repeatable requests, determine the highest value)
+- Provides the data/facts for improving PIR Process  (types of repeatable requests, determine the highest value)
 
 **The approach:**
 
-.. 2-3 sentences. Describe what this probject will do and how it will deliver value back to the City and the Open Data Initiative. Keep it brief here -- specific deliverables will be added in the next section.
+.. 2-3 sentences. Describe what this project will do and how it will deliver value back to the City and the Open Data Initiative. Keep it brief here -- specific deliverables will be added in the next section.
 
 - Understanding our audience
 - Identify the fears, misconceptions or hurdles of not sharing
