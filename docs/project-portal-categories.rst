@@ -64,9 +64,9 @@ Success criteria
 
 We'll know this project has been successfully completed when:
 
-- [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin.]
-- [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.] 
-- [Fruitcake carrot cake cake chocolate cake.]
+- Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin.
+- Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels. 
+- Fruitcake carrot cake cake chocolate cake.
 
 
 Deliverables
