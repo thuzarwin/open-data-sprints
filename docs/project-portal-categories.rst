@@ -123,7 +123,7 @@ Working documents
 - www.optimalworkshop.com/optimalsort.
 - www.userzoom.com/card-sorting.
 - www.usabilitytools.com/us-suites.
-- Consult with Open Austin
+- colaborate with Open Austin
 
 .. raw:: html
 
