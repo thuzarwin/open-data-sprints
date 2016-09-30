@@ -55,7 +55,7 @@ Better consistency and guidelines will make it easier for publishing data.
 
 .. 2-3 sentences. Describe what this probject will do and how it will deliver value back to the City and the Open Data Initiative. Keep it brief here -- specific deliverables will be added in the next section.
 
-[Tell us about what this project will attempt and how it will deliver value here.]
+Tell us about what this project will attempt and how it will deliver value here.
 
 Success criteria
 ----------------------------------------------
