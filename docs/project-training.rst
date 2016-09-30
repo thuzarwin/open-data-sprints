@@ -87,7 +87,7 @@ Key dates
 
 - September 13, 2016: Gather custom courses survey requests from Open Data Liaisons and Open Data City Employees Enthusiasts and relay back to the Socrata Education Team.
 - September 30, 2016: Meet with key users and research solutions.
-- October , 2016: Invite Open Data Liaisons and Open Data City Employees Enthusiasts to take Socrata's custom courses TBD
+- October 2016: Invite Open Data Liaisons and Open Data City Employees Enthusiasts to take Socrata's custom courses TBD
 - October 31, 2016: Finalize materials and test on key users
 - Nov 14, 2016: Presentation
 
