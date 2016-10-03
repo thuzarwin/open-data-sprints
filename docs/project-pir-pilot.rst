@@ -42,16 +42,17 @@ The City of Austin Open Data Liaisons and staff who work with formal public info
 
 .. 1-2 sentences. Why should we address this? What value would be gained by solving this problem now?
 
--The increased supply of proactively published government data and information on the open data portal should decrease the need for formal PIRs and the accompanying processes. This should reduce the considerable time and cost committed by the City, while improving the customer experience in terms of accessibility, transparency, and self-service.
+The increased supply of proactively published government data and information on the open data portal should decrease the need for formal PIRs and the accompanying processes. This should reduce the considerable time and cost committed by the City, while improving the customer experience in terms of accessibility, transparency, and self-service.
 
 **The approach:**
 
 .. 2-3 sentences. Describe what this project will do and how it will deliver value back to the City and the Open Data Initiative. Keep it brief here -- specific deliverables will be added in the next section.
 
 In order to determine the return on effort for this initiative, we plan to:
-1. Understand the audiences (internal and external)
-2. Identify current obstacles (internal and external)
-3. Analyze current PIR data to prioritize proactive discloser
+
+- Understand the audiences (internal and external)
+- Identify current obstacles (internal and external)
+- Analyze current PIR data to prioritize proactive discloser
 
 
 
@@ -61,6 +62,7 @@ Success criteria
 .. AUTHOR INSTRUCTIONS: When will we know we've successfully completed this project? Add brief, specific criteria here. Mention specific deliverables if needed. Use as many (or few) bullet points as you like.
 
 We’ll know this project has been successfully completed when we have:
+
 - Determined new data sets to publish to the open data portal in order to reduce PIRs
 - Determined current data sets on the open data portal to promote to and educate our audiences about in order to reduce PIRs
 - Define process, metrics, and guidelines for Departments to use to identify data sets that should be proactively disclosed and promoted on the open data portal.
