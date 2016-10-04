@@ -118,19 +118,20 @@ Progress Reports
 
 .. AUTHOR INSTRUCTIONS: Start with the date for each progress report. Copy the template that's located [here] and paste it underneath the date header. Fill in that template to complete your report. Repeat for as many progress reports as needed.
 
-Sep ?, 2016
+Sep 30, 2016
 ----------------------------------------------
 
-[progress report template coming soon]
+**What've done since Aug, 16:**
+-
+- 
+- 
 
-.. raw:: html
 
-	<hr/>
+**What we're going to do between now and the project end:**
+- 
+- 
+- 
 
-Oct ?, 2016
-----------------------------------------------
-
-[progress report template coming soon]
 
 .. raw:: html
 
