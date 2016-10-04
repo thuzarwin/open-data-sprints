@@ -140,16 +140,16 @@ Sep 30, 2016
 ----------------------------------------------
 
 **What've done since Aug, 16:**
+-
+- 
+- 
 
-- bullet item here
-- b
-- c
 
 **What we're going to do between now and the project end:**
+- 
+- 
+- 
 
-- x
-- y
-- z
 
 .. raw:: html
 
