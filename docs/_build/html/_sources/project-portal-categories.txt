@@ -55,7 +55,16 @@ Better consistency and guidelines will make it easier for publishing data.
 
 .. 2-3 sentences. Describe what this probject will do and how it will deliver value back to the City and the Open Data Initiative. Keep it brief here -- specific deliverables will be added in the next section.
 
-[Tell us about what this project will attempt and how it will deliver value here.]
+- Tell us about what this project will attempt and how it will deliver value here.
+- Review previous work from Open Data Portal Redesign.
+- Review existing data sets of each category and verify the relevance to the category.
+- Consult with Socrata staff to include vendor perspective. 
+- Research user needs by using design thinking exercises to determine best categories.   Research other city examples.
+- Determine how categories affect the usability of the portal by browsing.
+- Create draft of recommended category changes.
+- Conduct survey of recommended category changes with open data community.
+- Develop and publish Guidelines and instruction manual.
+- Update categories and assign existing data sets to new categories
 
 Success criteria
 ----------------------------------------------
@@ -64,9 +73,12 @@ Success criteria
 
 We'll know this project has been successfully completed when:
 
-- [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin.]
-- [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.] 
-- [Fruitcake carrot cake cake chocolate cake.]
+- Customers are able to search and view more consistent datasets by categories.
+- Improved navigation of open data and information about Austin city government.
+- Developed a recommended category list. 
+- Consistent process of category assignment.
+- Reduce the need for search words by comparing monthly Socrata analytics.
+- The categories of the current open data portal have been revised to create better grouping. 
 
 
 Deliverables
@@ -74,10 +86,11 @@ Deliverables
 
 .. AUTHOR INSTRUCTIONS: What artifacts will be delivered by this project? Examples include specific documents, progress reports, feature sets, performance data, events, or presentations. Use as many (or few) bullet points as you like.
 
-- [One deliverable goes here]
-- [Another deliverable goes here]
-- Progress Report
-- End of Project Report
+- Baseline analytics of Austin open data portal.
+- Publish findings of design thinking exercises.
+- Final listing of categories that include better definitions.
+- Final guidelines for categories.
+- Implementation of new categories and data set reassignment, on Austin open data portal.
 
 
 Key users/customers
@@ -85,10 +98,16 @@ Key users/customers
 
 .. AUTHOR INSTRUCTIONS: What types of users/people will be most affected by this project? This helps readers understand your project's target audience. Use as many (or few) bullet points as you like.
 
-- [Amet tiramisu apple pie sweet pudding.]
-- [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin.]
-- [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.] 
-- [Fruitcake carrot cake cake chocolate cake.]
+- Government Employee/Open Data (Owners)Liaison
+- Business or Data Analyst.
+- Researcher.
+- Data Publisher.
+- Data Consumer.
+- Developers and Designers.
+- Civic Advocate.
+- Citizens.
+- Businesses.
+- Educational Institutes.
 
 
 Key dates
@@ -96,10 +115,15 @@ Key dates
 
 .. AUTHOR INSTRUCTIONS: What dates are important? Ideas for key dates include progress report due dates, target milestone dates, end of project report due date. Use as many (or few) bullet points as you like.
 
-- [Jan 1, 2999]: [Amet tiramisu apple pie sweet pudding.]
-- [Jan 1, 2999]: [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin. 
-- [Jan 1, 2999]: [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.] 
-- [Jan 1, 2999]: [Fruitcake carrot cake cake chocolate cake.]
+- September 30th, 2016: Completion of categories scope and charter.
+- October 7th, 2016 : Complete dates and times for design approach exercises.
+- October 14th, 2016: Review Socrata analytics and existing categories.
+- October 21th, 2016: Conduct design thinking exercises.
+- October 28th, 2016: Draft recommended categories.
+- November 4th, 2016: Publish category survey on Bloomfire.
+- November 18th, 2016: Finalize categories guidelines.
+- November 25th, 2016: Publish recommendations to open data community.
+- November 30th, 2016: Schedule implementation date with Socrata.
 
 
 Working documents
@@ -107,10 +131,12 @@ Working documents
 
 .. AUTHOR INSTRUCTIONS: Where does your documentation live? Link to meeting minutes, draft docs, etc from github, google docs, or wherever here. Test the links to make sure they're readable for anyone who clicks. Use as many (or few) bullet points as you like.
 
-- [Amet tiramisu apple pie sweet pudding.]
-- [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin.] 
-- [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.]
-- [Fruitcake carrot cake cake chocolate cake.]
+- Sunlight Foundation.
+- Sorata analytics.
+- www.optimalworkshop.com/optimalsort.
+- www.userzoom.com/card-sorting.
+- www.usabilitytools.com/us-suites.
+- colaborate with Open Austin
 
 .. raw:: html
 
@@ -121,23 +147,24 @@ Progress Reports
 
 .. AUTHOR INSTRUCTIONS: Start with the date for each progress report. Copy the template that's located [here] and paste it underneath the date header. Fill in that template to complete your report. Repeat for as many progress reports as needed. 
 
-Sep ?, 2016
+Sep 30, 2016
 ----------------------------------------------
 
-[progress report template coming soon]
+**What've done since Aug, 16:**
+-
+- 
+- 
+
+
+**What we're going to do between now and the project end:**
+- 
+- 
+- 
 
 .. raw:: html
 
 	<hr/>
 
-Oct ?, 2016
-----------------------------------------------
-
-[progress report template coming soon]
-
-.. raw:: html
-
-	<hr/>
 
 End of Project Report
 ==============================================

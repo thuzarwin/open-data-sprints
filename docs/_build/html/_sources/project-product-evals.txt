@@ -10,7 +10,7 @@ Open Data Product Evaluations
 
 .. AUTHOR INSTRUCTIONS: Replace the [placeholder text] with the name of your project.
 
-The purpose of this document is to describe a project facilitated by the City of Austin's Open Data Initiative. It contains key contact information, the project scope and charter -- which identifies the problem statement, key partners, documents, and success criteria -- and links to working documents. Throughout the project, progress and final reports will be appended to provide a comprehensive account of the work and value delivered. 
+The purpose of this document is to describe a project facilitated by the City of Austin's Open Data Initiative. It contains key contact information, the project scope and charter -- which identifies the problem statement, key partners, documents, and success criteria -- and links to working documents. Throughout the project, progress and final reports will be appended to provide a comprehensive account of the work and value delivered.
 
 
 Team Contacts
@@ -40,7 +40,7 @@ Problem Statement
 
 .. 2-3 sentences. What are the basic facts of the problem?
 
-The City does not currently have core open data product user needs.  These are needed for determining if current and future tools have the potential and current capacity to meet City and user needs.
+The City does not have documented core user needs and accompanying guidelines for assessing open data products.
 
 **Why it matters:**
 
@@ -50,7 +50,7 @@ As the City of Austin's Open Data Initiative has evolved, the current product of
 
 **The approach:**
 
-.. 2-3 sentences. Describe what this probject will do and how it will deliver value back to the City and the Open Data Initiative. Keep it brief here -- specific deliverables will be added in the next section.
+.. 2-3 sentences. Describe what this project will do and how it will deliver value back to the City and the Open Data Initiative. Keep it brief here -- specific deliverables will be added in the next section.
 
 - Ideation session
 - User profiles
@@ -64,8 +64,8 @@ Success criteria
 
 We'll know this project has been successfully completed when:
 
-- Determine user/system needs 
-- Determine collection method 
+- Determine user/system needs
+- Determine collection method
 - Determine instructions, guidelines, and disclaimers for usage
 
 
@@ -74,8 +74,8 @@ Deliverables
 
 .. AUTHOR INSTRUCTIONS: What artifacts will be delivered by this project? Examples include specific documents, progress reports, feature sets, performance data, events, or presentations. Use as many (or few) bullet points as you like.
 
-- Publish user/system needs 
-- Publish collection method 
+- Publish user/system needs
+- Publish collection method
 - Publish instructions, guidelines, and disclaimers for usage
 
 
@@ -105,7 +105,7 @@ Working documents
 .. AUTHOR INSTRUCTIONS: Where does your documentation live? Link to meeting minutes, draft docs, etc from github, google docs, or wherever here. Test the links to make sure they're readable for anyone who clicks. Use as many (or few) bullet points as you like.
 
 - [Amet tiramisu apple pie sweet pudding.]
-- [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin.] 
+- [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin.]
 - [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.]
 - [Fruitcake carrot cake cake chocolate cake.]
 
@@ -116,21 +116,22 @@ Working documents
 Progress Reports
 ==============================================
 
-.. AUTHOR INSTRUCTIONS: Start with the date for each progress report. Copy the template that's located [here] and paste it underneath the date header. Fill in that template to complete your report. Repeat for as many progress reports as needed. 
+.. AUTHOR INSTRUCTIONS: Start with the date for each progress report. Copy the template that's located [here] and paste it underneath the date header. Fill in that template to complete your report. Repeat for as many progress reports as needed.
 
-Sep ?, 2016
+Sep 30, 2016
 ----------------------------------------------
 
-[progress report template coming soon]
+**What've done since Aug, 16:**
+-
+- 
+- 
 
-.. raw:: html
 
-	<hr/>
+**What we're going to do between now and the project end:**
+- 
+- 
+- 
 
-Oct ?, 2016
-----------------------------------------------
-
-[progress report template coming soon]
 
 .. raw:: html
 
