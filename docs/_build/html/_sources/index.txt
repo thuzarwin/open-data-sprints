@@ -29,9 +29,7 @@ View this project on GitHub: https://github.com/cityofaustin/open-data-sprints
    Training Materials Project <project-training>
    Portal Categories Project <project-portal-categories>
    KPI Data Assessment <project-open-data-plans>
-   Open Data Product Evaluations <project-product-evals>
-   Metadata Refresh Project <project-update-metadata>
-   
+   Open Data Product Evaluations <project-product-evals>   
 
 .. toctree::
    :hidden:
