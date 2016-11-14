@@ -141,15 +141,16 @@ Sep 30, 2016
 ----------------------------------------------
 
 **What've done since Aug, 16:**
--
-- 
-- 
-
+- Held team meetings to develop survey for understanding where information for KPIs comes from
+- Started writing code for website that will host survey links and department progress reports
+- Connected with Performance Office and received dataset of all measures from ePerf system
+- Modified project scope and charter to reflect focus on KPI data and discovering open data opportunities
 
 **What we're going to do between now and the project end:**
-- 
-- 
-- 
+- User testing for surveys
+- Deploy surveys and collect responses
+- Publish data so it can be analyzed by folks who are interested
+- Perform preliminary analysis of data and present Nov 21
 
 
 .. raw:: html
