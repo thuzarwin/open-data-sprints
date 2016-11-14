@@ -32,12 +32,12 @@ Project Scope and Charter
 
 Problem Statement
 ----------------------------------------------
-The City of Austin's Open Data Portal provides easy access to open data and information about the city's government to encourage the use of public information which the Open Data Liaisons and Open Data City Employees Enthusiasts have published to spark innovation, promote public collaboration, increase government transparency, and inform decision making. With the absence and lack of updated City of Austin’s training materials and resources, Open Data Liaisons and Open Data City Employees Enthusiasts are experiencing a wide range of knowledge gaps when it comes to Socarata’s software. As a result, many are experiencing road blocks as they perform their necessary tasks and are turning to other tools to help them achieve their goals. Meanwhile public users are visiting the portal and are greeted with outdated training materials, leaving them unclear on how to use the portal.
+The City of Austin's Open Data Portal provides easy access to open data and information about the city's government to encourage the use of public information which the Open Data Liaisons have published to spark innovation, promote public collaboration, increase government transparency, and inform decision making within many people groups including Open Data City Employees Enthusiasts. With the absence and lack of updated City of Austin’s training materials and resources, Open Data Liaisons and Open Data City Employees Enthusiasts are experiencing a wide range of knowledge gaps when it comes to Socarata’s software. As a result, many are experiencing road blocks as they perform their necessary tasks and are turning to other tools to help them achieve their goals. Meanwhile Open Data City Employees Enthusiasts are visiting the `portal's wiki <https://atxdataportal.wikispaces.com/>` and are greeted with outdated training materials, leaving them unclear on how to use the portal.
 
 
 **Why it matters:**
 
-The purpose of this project sprint is to update training materials and provide open data training resources needed for the various levels of knowledge and skill existing amongst city staff and public users. Equipping Open Data Liaisons, Open Data City Employees Enthusiasts and public users with the necessary tools will enable and empower them to further meet their goals and contribute to the city’s Open Data Initiative.
+The purpose of this project sprint is to update training materials and provide open data training resources needed for the various levels of knowledge and skill existing amongst city staff. Equipping Open Data Liaisons and Open Data City Employees Enthusiasts with the necessary tools will enable and empower them to further meet their goals and contribute to the city’s Open Data Initiative.
 
 
 **The approach:**
@@ -52,33 +52,33 @@ Success criteria
 We'll know this project has been successfully completed when:
 
 - We have identified the users' experience, knowledge gaps, and training needs and have met them by providing the essential tools:
-	- We have updated training materials and focused on the essential courses.
+	- We have updated training materials and focused on the essential resources.
 	- We have developed a training platform containing training materials that are easy accessible and user friendly to
-	  Open Data City Employees Enthusiasts, Open Data Liaisons and public users.
+	  Open Data City Employees Enthusiasts and Open Data Liaisons.
 
 Deliverables
 ----------------------------------------------
 
 .. AUTHOR INSTRUCTIONS: What artifacts will be delivered by this project? Examples include specific documents, progress reports, feature sets, performance data, events, or presentations. Use as many (or few) bullet points as you like.
 
-- Identify Gaps using design thinking tools such as interviews, journaling and surveys
+- Identify Gaps using design thinking tools such as developing personas, journey map etc.
 - Relay surfacing Open Data Liaisons and Open Data City Employees Enthusiasts questions, roadblocks, and concerns presented on the Training Needs survey to Socrata for answers.
-- An updated online Workshop 101 to be used as a Socrata Introduction Exercise
-- Invite users to join Bloomfire User Group and Slack Channel to help diminish concerns and roadblocks
+- An updated online Workshop 101 to be used as a Starter Kit for new Open Data Laisions. 
+- Invite users to join Bloomfire User Group and Slack Channel to help diminish concerns and roadblocks.
 - Determine our next steps
 - Update training materials located on the `wiki site <https://atxdataportal.wikispaces.com/>`_
-- Develop a library for Open Data Liaisons, Open Data City Employees Enthusiasts and public users who will or are working with Socrata's Open Data Portal
-- Provide Open Data Liaisons and Open Data City Employees Enthusiasts 2 custom courses of their choosing developed by Socrata
-- Develop training materials for the topics which Open Data Liaisons and Open Data City Employees Enthusiasts have requested.
-- Outreach to key Open Data Liaisons and Open Data City Employees Enthusiasts regarding available virtual training courses offered through Socrata using various outlets such as Bloomfire.
+- Develop a library for Open Data Liaisons and Open Data City Employees Enthusiasts who will or are working with The City of Austin's Open Data Portal.
+- Provide Open Data Liaisons and Open Data City Employees Enthusiasts 2 custom courses of their topic of choosing developed by Socrata's Education team. 
+- Develop training video for the topics which Open Data Liaisons and Open Data City Employees Enthusiasts have requested.
+- Outreach to key Open Data Liaisons and Open Data City Employees Enthusiasts regarding available virtual training courses offered through Socrata using outlets such as Bloomfire.
 
 Key users/customers
 ----------------------------------------------
 
 .. AUTHOR INSTRUCTIONS: What types of users/people will be most affected by this project? This helps readers understand your project's target audience. Use as many (or few) bullet points as you like.
-- The users of the open data training materials and resources are Open Data Liaisons and public users. Open Data Liaisons are city employees that act as the link between the data and their department. While public users are those who are curious about open data or use the data to collaborate unleashing sparks of innovation within their communities.
+- The users of the open data training materials and resources are Open Data Liaisons. Open Data Liaisons are city employees that act as the link between the data and their department. 
 
-- We also chose to focus on City Employees who we defined as Open Data City Employees Enthusiasts. This group of people will work with or are working directly with Socrata.
+- We also chose to focus on City Employees who we defined as Open Data City Employees Enthusiasts. This group of people will work with or are working directly with The City's of Austin Open Data Portal with an oversee of an Open Data Liaison. They also are defineds as those  who are curious about open data.
 
 Key dates
 ----------------------------------------------
@@ -87,9 +87,9 @@ Key dates
 
 - September 13, 2016: Gather custom courses survey requests from Open Data Liaisons and Open Data City Employees Enthusiasts and relay back to the Socrata Education Team.
 - September 30, 2016: Meet with key users and research solutions.
-- October 2016: Invite Open Data Liaisons and Open Data City Employees Enthusiasts to take Socrata's custom courses TBD
+- October 2016: Invite Open Data Liaisons and Open Data City Employees Enthusiasts to take Socrata's custom courses 
 - October 31, 2016: Finalize materials and test on key users
-- Nov 14, 2016: Presentation
+- Nov 21, 2016: Presentation: Close Out 
 
 Working documents
 ----------------------------------------------
