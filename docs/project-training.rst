@@ -53,8 +53,7 @@ We'll know this project has been successfully completed when:
 
 - We have identified the users' experience, knowledge gaps, and training needs and have met them by providing the essential tools:
 	- We have updated training materials and focused on the essential resources.
-	- We have developed a training platform containing training materials that are easy accessible and user friendly to
-	 General Users and Open Data Liaisons.
+	- We have developed a training platform containing training materials that are easy accessible and user friendly to general city of Austin employees and Open Data Liaisons.
 
 Deliverables
 ----------------------------------------------
