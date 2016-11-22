@@ -32,17 +32,17 @@ Project Scope and Charter
 
 Problem Statement
 ----------------------------------------------
-The City of Austin's Open Data Portal provides easy access to open data and information about the city's government to encourage the use of public information which the Open Data Liaisons have published to spark innovation, promote public collaboration, increase government transparency, and inform decision making within many people groups including General Users. With the absence and lack of updated City of Austin’s training materials and resources, Open Data Liaisons and General Users are experiencing a wide range of knowledge gaps when it comes to Socarata’s software. As a result, many are experiencing road blocks as they perform their necessary tasks and are turning to other tools to help them achieve their goals. Meanwhile General Users are visiting the `portal's wiki <https://atxdataportal.wikispaces.com/>` and are greeted with outdated training materials, leaving them unclear on how to use the portal.
+The City of Austin's Open Data Portal provides easy access to open data and information about the city's government to encourage the use of public information which the Open Data Liaisons have published to spark innovation, promote public collaboration, increase government transparency, and inform decision making within many people groups including general city of Austin employees. With the absence and lack of updated City of Austin’s training materials and resources, Open Data Liaisons and general city of Austin employees are experiencing a wide range of knowledge gaps when it comes to The City of Austin's Open Data Portal. As a result, many are experiencing road blocks as they perform their necessary tasks and are turning to other tools to help them achieve their goals. Meanwhile general city of Austin employees  are visiting the `portal's wiki <https://atxdataportal.wikispaces.com/>` and are greeted with outdated training materials, leaving them unclear on how to use the portal.
 
 
 **Why it matters:**
 
-The purpose of this project sprint is to update training materials and provide open data training resources needed for the various levels of knowledge and skill existing amongst city staff. Equipping Open Data Liaisons and General Users with the necessary tools will enable and empower them to further meet their goals and contribute to the city’s Open Data Initiative.
+The purpose of this project sprint is to update training materials and provide open data training resources needed for the various levels of knowledge and skill existing amongst general city of Austin employees and Open Data Liaisons. Equipping Open Data Liaisons and  general city of Austin employees with the necessary tools will enable and empower them to further meet their goals and contribute to the city’s Open Data Initiative.
 
 
 **The approach:**
 
-We will use `IBM Design Thinking Field Guide <http://www.ibm.com/design/thinking/>`_ as guiding post throughout our project to define and understand the problem, observe and research users, analyze and identify users’ training and knowledge needs, strategize ways to fill training need gaps, develop training materials, and validate training materials with users and stakeholders. We will also work with Socrata's Education team to develop two virtual custom courses.
+We will use `IBM Design Thinking Field Guide <http://www.ibm.com/design/thinking/>`_ as guiding post throughout our project to define and understand the problem, observe and research users, analyze and identify users’ training and knowledge needs, strategize ways to fill training need gaps, develop training materials, and validate training materials with general city of Austin employees and Open Data Liaisons. We will also work with Socrata's Education team to develop two virtual custom courses.
 
 Success criteria
 ----------------------------------------------
@@ -62,15 +62,15 @@ Deliverables
 .. AUTHOR INSTRUCTIONS: What artifacts will be delivered by this project? Examples include specific documents, progress reports, feature sets, performance data, events, or presentations. Use as many (or few) bullet points as you like.
 
 - Identify Gaps using design thinking tools such as developing personas, journey map etc.
-- Relay surfacing Open Data Liaisons and General Users questions, roadblocks, and concerns presented on the Training Needs survey to Socrata for answers.
+- Relay surfacing Open Data Liaisons and  general city of Austin employees questions, roadblocks, and concerns presented on the Training Needs survey to Socrata for answers.
 - An updated online Workshop 101 to be used as a Starter Kit for new Open Data Laisions. 
 - Invite users to join Bloomfire User Group and Slack Channel to help diminish concerns and roadblocks.
 - Determine our next steps
 - Update training materials located on the `wiki site <https://atxdataportal.wikispaces.com/>`_
-- Develop a library for Open Data Liaisons and General Users who will or are working with The City of Austin's Open Data Portal.
-- Provide Open Data Liaisons and General Users 2 custom courses of their topic of choosing developed by Socrata's Education team. 
-- Develop training video for the topics which Open Data Liaisons and General Users have requested.
-- Outreach to key Open Data Liaisons and General Users regarding available virtual training courses offered through Socrata using outlets such as Bloomfire.
+- Develop a library for Open Data Liaisons and  general city of Austin employees who will or are working with The City of Austin's Open Data Portal.
+- Provide Open Data Liaisons and  general city of Austin employees 2 custom courses of their topic of choosing developed by Socrata's Education team. 
+- Develop training video for the topics which Open Data Liaisons and  general city of Austin employees have requested.
+- Outreach to key Open Data Liaisons and  general city of Austin employees regarding available virtual training courses offered through Socrata using outlets such as Bloomfire.
 
 Key users/customers
 ----------------------------------------------
@@ -79,7 +79,7 @@ Key users/customers
 
 - Open Data Liaisons are city employees that act as the link between the data and their department. 
 
-- General Users are those who might come across or are curious about The city of Austin's open data. 
+- Open Data Liaisons and  general city of Austin employees are those who might come across or are curious about The city of Austin's open data. 
 
 Key dates
 ----------------------------------------------
@@ -98,40 +98,18 @@ Working documents
 .. AUTHOR INSTRUCTIONS: Where does your documentation live? Link to meeting minutes, draft docs, etc from github, google docs, or wherever here. Test the links to make sure they're readable for anyone who clicks. Use as many (or few) bullet points as you like.
 
 - `Trello <https://trello.com/b/mLGnONfw/open-data-training-and-resources-team/>`_
--  Open Data Library - TBD
+- `Presentation <https://docs.google.com/presentation/d/1g_whoQ0loYRt12RFDMsOTRFYMWgUH52Oqz4K3d5wV2g/edit#slide=id.gc6f972163_0_0>`_
+- `Open Data Training and Resources website <https://cityofaustin.github.io/open-data-training/>`_
 - `IBM Design Thinking Field Guide <http://www.ibm.com/design/thinking/>`_
 - `User Research: Training materials survey <https://opendata.typeform.com/to/k6L1M2>`_
 - `User Research: Custom course survey <https://opendata.typeform.com/to/TlNHnH>`_
 - `Bloomfire custom courses and available training outreach <https://opendata.bloomfire.com/posts/1240173-socrata-educational-custom-courses-offer-training-resources-in-september>`_
+- `User Research Results <https://airtable.com/shrQSjVaFkslO1fJk>`_
+-  `Socrata Feedback Questions and Concerns <https://airtable.com/shr5JdobssXQQ8Mk3>`_
 - `Bloomfire training needs outreach <https://opendata.bloomfire.com/posts/1239986-training-needs-and-materials-survey>`_
-- User Profiles
 .. raw:: html
 
 	<hr/>
-
-Progress Reports
-==============================================
-
-.. AUTHOR INSTRUCTIONS: Start with the date for each progress report. Copy the template that's located [here] and paste it underneath the date header. Fill in that template to complete your report. Repeat for as many progress reports as needed.
-
-Sep 30, 2016
-----------------------------------------------
-
-**What've done since Aug, 16:**
--
-- 
-- 
-
-
-**What we're going to do between now and the project end:**
-- 
-- 
-- 
-
-.. raw:: html
-
-	<hr/>
-
 
 End of Project Report
 ==============================================
