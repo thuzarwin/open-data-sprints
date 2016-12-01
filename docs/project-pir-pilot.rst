@@ -91,9 +91,9 @@ Key dates
 
 .. AUTHOR INSTRUCTIONS: What dates are important? Ideas for key dates include progress report due dates, target milestone dates, end of project report due date. Use as many (or few) bullet points as you like.
 
-- [August 16, 2016]: Sprint Kickoff
-- [September 30, 2016]: Mid Sprint Progress Report
-- [November 14, 2016]: End of Sprint Summary Report
+- August 16, 2016: Sprint Kickoff
+- September 30, 2016: Mid Sprint Progress Report
+- November 21, 2016: End of Sprint Summary Report
 
 
 
@@ -105,6 +105,7 @@ Working documents
 - `New York City Open Records Beta Site <https://a860-openrecords.nyc.gov/>`_
 - `Port of Seattle Police Open Data Record Site <http://www.portofseattlepolice.nextrequest.com/>`_
 - `Texas Attorney General Public Information Handbook <https://www.texasattorneygeneral.gov/files/og/publicinfo_hb.pdf/>`_
+- `PIR Pilot Sprint Summary Presentation <https://docs.google.com/presentation/d/1SaCVwp0H6tMOPRLkf544i4xCAzFTzHKUCrfs1IcC53E/edit?usp=sharing/>`_
 
 .. raw:: html
 
