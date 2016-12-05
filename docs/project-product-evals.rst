@@ -2,8 +2,6 @@
 Open Data Product Evaluations
 ==============================================
 
-**This document is in (deep) beta**
-
 +------------+----------------------------+
 | Sprint 2.2 | Aug 2016 - Nov 2016        |
 +------------+----------------------------+
@@ -96,7 +94,7 @@ Key dates
 - Sept 30, 2016: Mid
 - Oct 3, 2016: Ideation session 1 of 2.
 - Oct 20, 2016: Ideation session 2 of 2.
-- Oct 28, 2016: Ideation session 3 (continuation request)
+- Oct 28, 2016: Ideation session 3 (continuation by team)
 - Nov 14, 2016: End of sprint period.
 
 
