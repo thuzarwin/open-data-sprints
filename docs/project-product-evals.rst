@@ -95,8 +95,9 @@ Key dates
 - Aug 16, 2016: Starting line.
 - Sept 30, 2016: Mid
 - Oct 3, 2016: Ideation session 1 of 2.
-- Oct 10, 2016: Ideation session 2 of 2.
-- Nov 14, 2016: Finish line.
+- Oct 20, 2016: Ideation session 2 of 2.
+- Oct 28, 2016: Ideation session 3 (continuation request)
+- Nov 14, 2016: End of sprint period.
 
 
 Working documents
@@ -104,10 +105,10 @@ Working documents
 
 .. AUTHOR INSTRUCTIONS: Where does your documentation live? Link to meeting minutes, draft docs, etc from github, google docs, or wherever here. Test the links to make sure they're readable for anyone who clicks. Use as many (or few) bullet points as you like.
 
-- [Amet tiramisu apple pie sweet pudding.]
-- [Gummies wafer biscuit soufflé marzipan soufflé oat cake toffee muffin.]
-- [Topping dessert candy oat cake donut cupcake. Dragée candy canes pie cake apple pie caramels.]
-- [Fruitcake carrot cake cake chocolate cake.]
+- `Ideation Session 1 - Identify User Needs <https://drive.google.com/open?id=0B2q-lMfznCGlNmlJZjg1Xy1UU0k>`_
+- `Ideation Session 2 - Four Personas <https://drive.google.com/open?id=0B2q-lMfznCGlS050SjZQS285b0E>`_
+- `Ideation Session 3 - Initial Insights <https://drive.google.com/open?id=0B2q-lMfznCGlRi1kMHBEYklqd1U>`_
+- `Presentation Slides <https://docs.google.com/presentation/d/1f53CN_uT4k0CaxxmfzSITTVvhan_6HqTxstBY-m_ZpA/edit?usp=sharing>`_
 
 .. raw:: html
 
