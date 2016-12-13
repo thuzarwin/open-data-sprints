@@ -163,4 +163,29 @@ End of Project Report
 
 .. AUTHOR INSTRUCTIONS: Copy the final report template that's located [here] and paste it underneath this header.  Fill in that template to complete your report. High five, your documentation is complete! Many thanks!
 
-[coming soon]
+**Summary:**
+
+Essentially, this project was about discovering new datasets that could be published as open data in the future. By asking detailed questions about a specific business process shared by all departments -- reporting key performance indicators to the Office of Performance Management -- we were able to collect information that will help us assess how much effort would be needed to publish specific datasets. 
+
+
+There were additional benefits to choosing key performance indicators as our focus area. The Office of Performance Management now has additional information with which to study indicator trends for their business activities, and the survey data is also published online on the City’s data portal for public review and download. The data is interoperable with other public datasets published by Austin’s Financial Services Department. 
+
+
+This project began with broader output goals, but the scope was later modified to remove work related to publishing plans and the city data inventory. The survey data delivered by this project provides important foundational content that departments will leverage to reboot their data inventories and open data plans in upcoming projects. 
+
+**Outcomes by Success Criteria:**
+ 
+We can measure how many of the City’s Key Performance Indicators can be sourced from raw, structured data
+Moderately successful. (a few sentences go here.)
+
+We have published our findings publicly and in dataset format
+Successful. (link to data on portal)
+
+We have completed our project deliverables, including progress and final reports
+Successful. (need to tidy up documentation of this.)
+
+**Recommended next steps:**
+
+(add thoughts here)
+
+
