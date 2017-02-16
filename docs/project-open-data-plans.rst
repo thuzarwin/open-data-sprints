@@ -71,7 +71,7 @@ Deliverables
 .. AUTHOR INSTRUCTIONS: What artifacts will be delivered by this project? Examples include specific documents, progress reports, feature sets, performance data, events, or presentations.
 
 - Survey to be used by departments to complete the KPI Data Assessment
-- Assessment status dashboard, published online for public access
+- `Assessment status dashboard <https://coa-kpi-data.herokuapp.com>`_, published online for public access
 - `Survey results in dataset format <https://data.austintexas.gov/Government/Key-Performance-Indicator-Surveys/jqyq-w7x4/data>`_
 - `A list of next and later action items to inform the next project iteration <https://github.com/cityofaustin/open-data-plans/blob/master/now-next-later-items.md>`_
 - 30 Day Progress Report, due Sep 30, 2016
