@@ -72,7 +72,8 @@ Deliverables
 
 - Survey to be used by departments to complete the KPI Data Assessment
 - Assessment status dashboard, published online for public access
-- `A list of next and later action items to inform the next project iteration <https://github.com/cityofaustin/open-data-plans/blob/master/now-next-later-items.md>`_
+- `_Survey results in dataset format <https://data.austintexas.gov/Government/Key-Performance-Indicator-Surveys/jqyq-w7x4/data>`_
+- `_A list of next and later action items to inform the next project iteration <https://github.com/cityofaustin/open-data-plans/blob/master/now-next-later-items.md>`_
 - 30 Day Progress Report, due Sep 30, 2016
 - End of Project Report, due Nov 14, 2016
 
