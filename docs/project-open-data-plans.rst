@@ -110,7 +110,7 @@ Working documents
 - `List of things to work on next and later <https://github.com/cityofaustin/open-data-plans/blob/master/now-next-later-items.md>`_
 - `Project issues and to do items on GitHub <https://github.com/cityofaustin/open-data-plans/issues>`_
 - `Website code for survey dashboard and more project to do items on GitHub <https://github.com/cityofaustin/kpi-data-dashboard>`_
-
+- `Diagram <https://docs.google.com/drawings/d/1HdVfupKKdRnCBe29yEowmxLzLdK_19NWgrHEKkkCudw/edit?usp=sharing>`_ showing survey template questions and answers
 .. raw:: html
 
 	<hr/>
