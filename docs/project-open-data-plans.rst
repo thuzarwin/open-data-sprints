@@ -111,6 +111,8 @@ Working documents
 - `Project issues and to do items on GitHub <https://github.com/cityofaustin/open-data-plans/issues>`_
 - `Website code for survey dashboard and more project to do items on GitHub <https://github.com/cityofaustin/kpi-data-dashboard>`_
 - `Diagram <https://docs.google.com/drawings/d/1HdVfupKKdRnCBe29yEowmxLzLdK_19NWgrHEKkkCudw/edit?usp=sharing>`_ showing survey template questions and answers
+- `Diagram <https://docs.google.com/drawings/d/1XrZ4bqo4JwoOrTmKk4_CaPxqn78rTK_mycsObcWfgVg/edit?usp=sharing>`_ of KPI measure reporting process
+
 .. raw:: html
 
 	<hr/>
