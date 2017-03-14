@@ -75,6 +75,7 @@ Working documents
 .. AUTHOR INSTRUCTIONS: Where does your documentation live? Link to meeting minutes, draft docs, etc from github, google docs, or wherever here. Test the links to make sure they're readable for anyone who clicks.
 
 - content inventory in airtable
+- project issue notes in github `here <https://github.com/cityofaustin/open-data-sprints/projects/1>`_
 - task list in `this scrum board on Trello <https://trello.com/b/uEryu4Lp/open-data-sprints-scrum-board?menu=filter&filter=label:open%20data%20content%20memo>`_
 
 
